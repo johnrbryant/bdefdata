@@ -1,6 +1,8 @@
 
 .PHONY: all
-all: data/twelve_population.rda \
+all: data/maori_deaths.rda \
+     data/maori_popn.rda \
+     data/twelve_population.rda \
      data/twelve_births.rda \
      data/twelve_deaths.rda \
      data/twelve_movements.rda \
@@ -8,6 +10,18 @@ all: data/twelve_population.rda \
      data/twelve_emigration.rda \
      data/twelve_taxes.rda \
      documentation
+
+
+## Maori Deaths and Population
+
+data/maori_deaths.rda : data-raw/maori_deaths/maori_deaths.R \
+                        data-raw/maori_deaths/VSD349301_20180630_115444_58.csv
+	Rscript $<
+
+data/maori_popn.rda : data-raw/maori_popn/maori_popn.R \
+                      data-raw/maori_popn/6a04af0d-c193-49d4-9ace-81d90f32211b.xlsx
+	Rscript $<
+
 
 ## Twelve Individuals
 

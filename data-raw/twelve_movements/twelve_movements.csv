@@ -1,9 +1,9 @@
 name,time,age,region_orig,region_dest
-Fatima,1988-10-29,80,East,West
-Grace,1992-02-16,6,West,East
-Cindy,1992-05-19,44,West,East
-Anna,1998-11-01,28,East,West
-Hong,2002-03-18,3,West,East
-Anna,2003-06-20,33,West,East
-Emma,2003-05-17,58,West,East
-Hong,2005-12-03,6,East,West
+Fatima,1988,80,East,West
+Grace,1992,6,West,East
+Cindy,1992,44,West,East
+Anna,1998,28,East,West
+Hong,2002,3,West,East
+Anna,2003,33,West,East
+Emma,2003,58,West,East
+Hong,2005,6,East,West
