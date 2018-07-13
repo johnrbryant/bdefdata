@@ -2,6 +2,8 @@
 .PHONY: all
 all: data/maori_deaths.rda \
      data/maori_popn.rda \
+     data/sweden_births.rda \
+     data/sweden_deaths.rda \
      data/twelve_population.rda \
      data/twelve_births.rda \
      data/twelve_deaths.rda \
@@ -20,6 +22,17 @@ data/maori_deaths.rda : data-raw/maori_deaths/maori_deaths.R \
 
 data/maori_popn.rda : data-raw/maori_popn/maori_popn.R \
                       data-raw/maori_popn/6a04af0d-c193-49d4-9ace-81d90f32211b.xlsx
+	Rscript $<
+
+
+## Swedish Birth and Deaths
+
+data/sweden_births.rda : data-raw/sweden_births/sweden_births.R \
+                         data-raw/sweden_births/BE0101E2.csv
+	Rscript $<
+
+data/sweden_deaths.rda : data-raw/sweden_deaths/sweden_deaths.R \
+                         data-raw/sweden_deaths/BE0101D9.csv
 	Rscript $<
 
 
@@ -53,6 +66,8 @@ data/twelve_taxes.rda : data-raw/twelve_taxes/twelve_taxes.R \
                         data-raw/twelve_taxes/twelve_taxes.csv
 	Rscript $<
 
+
+## Documentation
 
 .PHONY: documentation
 documentation:
