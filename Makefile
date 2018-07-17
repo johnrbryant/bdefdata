@@ -2,6 +2,8 @@
 .PHONY: all
 all: data/maori_deaths.rda \
      data/maori_popn.rda \
+     data/portugal_deaths.rda \
+     data/portugal_exposure.rda \
      data/sweden_births.rda \
      data/sweden_deaths.rda \
      data/twelve_population.rda \
@@ -22,6 +24,17 @@ data/maori_deaths.rda : data-raw/maori_deaths/maori_deaths.R \
 
 data/maori_popn.rda : data-raw/maori_popn/maori_popn.R \
                       data-raw/maori_popn/6a04af0d-c193-49d4-9ace-81d90f32211b.xlsx
+	Rscript $<
+
+
+## Portugal Deaths and Exposure
+
+data/portugal_deaths.rda : data-raw/portugal_deaths/portugal_deaths.R \
+                           data-raw/portugal_deaths/Deaths_1x1.txt
+	Rscript $<
+
+data/portugal_exposure.rda : data-raw/portugal_exposure/portugal_exposure.R \
+                             data-raw/portugal_exposure/Exposures_1x1.txt
 	Rscript $<
 
 
