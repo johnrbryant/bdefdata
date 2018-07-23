@@ -1,7 +1,9 @@
 
 .PHONY: all
-all: data/maori_deaths.rda \
-     data/maori_popn.rda \
+all: data/iceland_migration.rda \
+     data/iceland_population.rda \
+     data/maori_deaths.rda \
+     data/maori_population.rda \
      data/portugal_deaths.rda \
      data/portugal_exposure.rda \
      data/sweden_births.rda \
@@ -16,14 +18,28 @@ all: data/maori_deaths.rda \
      documentation
 
 
+
+## Iceland Migration and Population
+
+data/iceland_migration.rda : data-raw/iceland_migration/iceland_migration.R \
+                             data-raw/iceland_migration/MAN01001.csv \
+                             data-raw/iceland_migration/MAN01001-2.csv \
+
+	Rscript $<
+
+data/iceland_population.rda : data-raw/iceland_population/iceland_population.R \
+                              data-raw/iceland_population/MAN02005.csv
+	Rscript $<
+
+
 ## Maori Deaths and Population
 
 data/maori_deaths.rda : data-raw/maori_deaths/maori_deaths.R \
                         data-raw/maori_deaths/VSD349301_20180630_115444_58.csv
 	Rscript $<
 
-data/maori_popn.rda : data-raw/maori_popn/maori_popn.R \
-                      data-raw/maori_popn/6a04af0d-c193-49d4-9ace-81d90f32211b.xlsx
+data/maori_population.rda : data-raw/maori_population/maori_population.R \
+                            data-raw/maori_population/6a04af0d-c193-49d4-9ace-81d90f32211b.xlsx
 	Rscript $<
 
 

@@ -5,9 +5,9 @@ library(tidyr)
 library(dembase)
 
 portugal_exposure <- read.table("data-raw/portugal_exposure/Exposures_1x1.txt",
-                              skip = 2,
-                              header = TRUE,
-                              na.string = ".") %>%
+                                skip = 2,
+                                header = TRUE,
+                                na.string = ".") %>%
     select(year = Year, age = Age, Female, Male) %>%
     gather(key = sex, value = count, Female, Male) %>%
     filter(year %in% 1950:2015) %>%

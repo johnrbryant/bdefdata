@@ -16,4 +16,4 @@
 #' 30 June 1996, 2001, 2006, and 2013"
 #' in the online database "Infoshare", on the Statistics New Zealand
 #' website. Downloaded on 2 July 2018.
-"maori_popn"
+"maori_population"
