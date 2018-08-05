@@ -4,6 +4,9 @@ all: data/iceland_migration.rda \
      data/iceland_population.rda \
      data/maori_deaths.rda \
      data/maori_population.rda \
+     data/netherlands_cpi.rda \
+     data/netherlands_health.rda \
+     data/netherlands_population.rda \
      data/portugal_deaths.rda \
      data/portugal_exposure.rda \
      data/sweden_births.rda \
@@ -40,6 +43,21 @@ data/maori_deaths.rda : data-raw/maori_deaths/maori_deaths.R \
 
 data/maori_population.rda : data-raw/maori_population/maori_population.R \
                             data-raw/maori_population/6a04af0d-c193-49d4-9ace-81d90f32211b.xlsx
+	Rscript $<
+
+
+## Netherlands CPI, Health, and Population
+
+data/netherlands_cpi.rda : data-raw/netherlands_cpi/netherlands_cpi.R \
+                           data-raw/netherlands_cpi/KEI_04062016052113516.csv
+	Rscript $<
+
+data/netherlands_health.rda : data-raw/netherlands_health/netherlands_health.R \
+                              data-raw/netherlands_health/EBDAG_24052016055802288.csv
+	Rscript $<
+
+data/netherlands_population.rda : data-raw/netherlands_population/netherlands_population.R \
+                                  data-raw/netherlands_population/POP_PROJ_04062016225548685.csv
 	Rscript $<
 
 

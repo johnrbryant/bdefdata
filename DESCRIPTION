@@ -1,10 +1,17 @@
 Package: bdefdata
-Title: What the Package Does (one line, title case)
-Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Title: Data from the book Bayesian Demographic Estimation and Forecasting
+Version: 0.0.0.9001
+Authors@R: c(person(given = "John",
+                    family = "Bryant",
+                    email = "john.r.bryant@gmail.com",
+                    role = c("cre", "aut")),
+             person(given = "Junni L.",
+                    family = "Zhang",
+                    role = "ctb"))
+Description: Datasets from John Bryant and Junni L Zhang. (2018).
+    Demographic Estimation and Forecasting. CRC Press.
 Depends: R (>= 3.3.2)
-License: What license is it under?
+License: GPL >= 3
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1
