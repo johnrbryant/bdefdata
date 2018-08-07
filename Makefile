@@ -6,7 +6,7 @@ all: data/iceland_migration.rda \
      data/maori_population.rda \
      data/netherlands_cpi.rda \
      data/netherlands_health.rda \
-     data/netherlands_population.rda \
+     data/netherlands_exposure.rda \
      data/portugal_deaths.rda \
      data/portugal_exposure.rda \
      data/sweden_births.rda \
@@ -56,8 +56,8 @@ data/netherlands_health.rda : data-raw/netherlands_health/netherlands_health.R \
                               data-raw/netherlands_health/EBDAG_24052016055802288.csv
 	Rscript $<
 
-data/netherlands_population.rda : data-raw/netherlands_population/netherlands_population.R \
-                                  data-raw/netherlands_population/POP_PROJ_04062016225548685.csv
+data/netherlands_exposure.rda : data-raw/netherlands_exposure/netherlands_exposure.R \
+                                data-raw/netherlands_exposure/POP_PROJ_04062016225548685.csv
 	Rscript $<
 
 
