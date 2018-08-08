@@ -1,6 +1,6 @@
 Package: bdefdata
 Title: Data from the book Bayesian Demographic Estimation and Forecasting
-Version: 0.0.0.9001
+Version: 0.0.0.9002
 Authors@R: c(person(given = "John",
                     family = "Bryant",
                     email = "john.r.bryant@gmail.com",

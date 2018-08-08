@@ -68,7 +68,7 @@ data/portugal_deaths.rda : data-raw/portugal_deaths/portugal_deaths.R \
 	Rscript $<
 
 data/portugal_exposure.rda : data-raw/portugal_exposure/portugal_exposure.R \
-                             data-raw/portugal_exposure/Exposures_1x1.txt
+                             data-raw/portugal_exposure/PRT.Exposures_1x1.txt
 	Rscript $<
 
 

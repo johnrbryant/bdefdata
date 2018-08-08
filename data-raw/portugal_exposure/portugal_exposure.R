@@ -4,7 +4,7 @@ library(dplyr)
 library(tidyr)
 library(dembase)
 
-portugal_exposure <- read.table("data-raw/portugal_exposure/Exposures_1x1.txt",
+portugal_exposure <- read.table("data-raw/portugal_exposure/PRT.Exposures_1x1.txt",
                                 skip = 2,
                                 header = TRUE,
                                 na.string = ".") %>%

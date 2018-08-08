@@ -9,5 +9,5 @@
 #' @source Human Mortality Database. University of California, Berkeley (USA),
 #' and Max Planck Institute for Demographic Research (Germany).
 #' Available at \url{www.mortality.org} or \url{www.humanmortality.de}
-#' (data downloaded on 17 July 2018).
+#' (data downloaded on 8 October 2017).
 "portugal_exposure"
