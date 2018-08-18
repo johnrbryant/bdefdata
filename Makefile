@@ -1,6 +1,11 @@
 
 .PHONY: all
-all: data/iceland_migration.rda \
+all: data/cambodia_births_census.rda \
+     data/cambodia_births_dhs.rda \
+     data/cambodia_births_dhs_revised.rda \
+     data/cambodia_population.rda \
+     data/cambodia_poverty.rda \
+     data/iceland_migration.rda \
      data/iceland_population.rda \
      data/maori_deaths.rda \
      data/maori_population.rda \
@@ -20,6 +25,77 @@ all: data/iceland_migration.rda \
      data/twelve_taxes.rda \
      documentation
 
+
+
+## Cambodia Births, Population, and Poverty
+
+data/cambodia_births_census.rda : data-raw/cambodia_births_census/cambodia_births_census.R \
+                                  data-raw/cambodia_births_census/reporte-1.xls \
+                                  data-raw/cambodia_births_census/reporte-2.xls \
+                                  data-raw/cambodia_births_census/reporte-3.xls \
+                                  data-raw/cambodia_births_census/reporte-4.xls \
+                                  data-raw/cambodia_births_census/reporte-5.xls \
+                                  data-raw/cambodia_births_census/reporte-6.xls \
+                                  data-raw/cambodia_births_census/reporte-7.xls \
+                                  data-raw/cambodia_births_census/reporte-8.xls \
+                                  data-raw/cambodia_births_census/reporte-9.xls \
+                                  data-raw/cambodia_births_census/reporte-10.xls \
+                                  data-raw/cambodia_births_census/reporte-11.xls \
+                                  data-raw/cambodia_births_census/reporte-12.xls \
+                                  data-raw/cambodia_births_census/reporte-13.xls \
+                                  data-raw/cambodia_births_census/reporte-14.xls \
+                                  data-raw/cambodia_births_census/reporte-15.xls \
+                                  data-raw/cambodia_births_census/reporte-16.xls \
+                                  data-raw/cambodia_births_census/reporte-17.xls \
+                                  data-raw/cambodia_births_census/reporte-18.xls \
+                                  data-raw/cambodia_births_census/reporte-19.xls \
+                                  data-raw/cambodia_births_census/reporte-20.xls \
+                                  data-raw/cambodia_births_census/reporte-21.xls \
+                                  data-raw/cambodia_births_census/reporte-22.xls \
+                                  data-raw/cambodia_births_census/reporte-23.xls \
+                                  data-raw/cambodia_births_census/reporte-24.xls \
+                                  data-raw/cambodia_births_census/reporte-25.xls \
+                                  data-raw/cambodia_births_census/reporte-26.xls \
+                                  data-raw/cambodia_births_census/reporte-27.xls \
+                                  data-raw/cambodia_births_census/reporte-28.xls \
+                                  data-raw/cambodia_births_census/reporte-29.xls \
+                                  data-raw/cambodia_births_census/reporte-30.xls \
+                                  data-raw/cambodia_births_census/reporte-31.xls \
+                                  data-raw/cambodia_births_census/reporte-32.xls \
+                                  data-raw/cambodia_births_census/reporte-33.xls \
+                                  data-raw/cambodia_births_census/reporte-34.xls \
+                                  data-raw/cambodia_births_census/reporte-35.xls \
+                                  data-raw/cambodia_births_census/reporte-36.xls \
+                                  data-raw/cambodia_births_census/reporte-37.xls \
+                                  data-raw/cambodia_births_census/reporte-38.xls \
+                                  data-raw/cambodia_births_census/reporte-39.xls \
+                                  data-raw/cambodia_births_census/reporte-40.xls \
+                                  data-raw/cambodia_births_census/reporte-41.xls \
+                                  data-raw/cambodia_births_census/reporte-42.xls \
+                                  data-raw/cambodia_births_census/reporte-43.xls \
+                                  data-raw/cambodia_births_census/reporte-44.xls \
+                                  data-raw/cambodia_births_census/reporte-45.xls \
+                                  data-raw/cambodia_births_census/reporte-46.xls \
+                                  data-raw/cambodia_births_census/reporte-47.xls \
+                                  data-raw/cambodia_births_census/reporte-48.xls
+	Rscript $<
+
+data/cambodia_births_dhs.rda : data-raw/cambodia_births_dhs/cambodia_births_dhs.R \
+                               data-raw/cambodia_births_dhs/cambodia_births_dhs.rda
+	Rscript $<
+
+data/cambodia_births_dhs_revised.rda : data-raw/cambodia_births_dhs_revised/cambodia_births_dhs_revised.R \
+                                       data-raw/cambodia_births_dhs_revised/cambodia_births_dhs_revised.rda
+	Rscript $<
+
+data/cambodia_population.rda : data-raw/cambodia_population/cambodia_population.R \
+                               data-raw/cambodia_population/rural.csv \
+                               data-raw/cambodia_population/urban.csv
+	Rscript $<
+
+data/cambodia_poverty.rda : data-raw/cambodia_poverty/cambodia_poverty.R \
+                            data-raw/cambodia_poverty/undp_poverty.csv
+	Rscript $<
 
 
 ## Iceland Migration and Population
