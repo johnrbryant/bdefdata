@@ -1,0 +1,2641 @@
+prev_rc,prev_rcdesc,new_rc,new_rcdesc,year,count
+01,Northland Region,02,Auckland Region,2007,6318
+01,Northland Region,02,Auckland Region,2008,7491
+01,Northland Region,02,Auckland Region,2009,9327
+01,Northland Region,02,Auckland Region,2010,8508
+01,Northland Region,02,Auckland Region,2011,9003
+01,Northland Region,02,Auckland Region,2012,9480
+01,Northland Region,02,Auckland Region,2013,9225
+01,Northland Region,02,Auckland Region,2014,10260
+01,Northland Region,02,Auckland Region,2015,10797
+01,Northland Region,02,Auckland Region,2016,11151
+01,Northland Region,02,Auckland Region,2017,11121
+01,Northland Region,03,Waikato Region,2007,1821
+01,Northland Region,03,Waikato Region,2008,2136
+01,Northland Region,03,Waikato Region,2009,2151
+01,Northland Region,03,Waikato Region,2010,2256
+01,Northland Region,03,Waikato Region,2011,2142
+01,Northland Region,03,Waikato Region,2012,2274
+01,Northland Region,03,Waikato Region,2013,2301
+01,Northland Region,03,Waikato Region,2014,2514
+01,Northland Region,03,Waikato Region,2015,2796
+01,Northland Region,03,Waikato Region,2016,2778
+01,Northland Region,03,Waikato Region,2017,2655
+01,Northland Region,04,Bay of Plenty Region,2007,819
+01,Northland Region,04,Bay of Plenty Region,2008,1020
+01,Northland Region,04,Bay of Plenty Region,2009,1152
+01,Northland Region,04,Bay of Plenty Region,2010,1191
+01,Northland Region,04,Bay of Plenty Region,2011,1128
+01,Northland Region,04,Bay of Plenty Region,2012,1092
+01,Northland Region,04,Bay of Plenty Region,2013,1152
+01,Northland Region,04,Bay of Plenty Region,2014,1299
+01,Northland Region,04,Bay of Plenty Region,2015,1506
+01,Northland Region,04,Bay of Plenty Region,2016,1548
+01,Northland Region,04,Bay of Plenty Region,2017,1428
+01,Northland Region,05,Gisborne Region,2007,87
+01,Northland Region,05,Gisborne Region,2008,108
+01,Northland Region,05,Gisborne Region,2009,105
+01,Northland Region,05,Gisborne Region,2010,123
+01,Northland Region,05,Gisborne Region,2011,126
+01,Northland Region,05,Gisborne Region,2012,150
+01,Northland Region,05,Gisborne Region,2013,171
+01,Northland Region,05,Gisborne Region,2014,153
+01,Northland Region,05,Gisborne Region,2015,135
+01,Northland Region,05,Gisborne Region,2016,153
+01,Northland Region,05,Gisborne Region,2017,156
+01,Northland Region,06,Hawke's Bay Region,2007,303
+01,Northland Region,06,Hawke's Bay Region,2008,375
+01,Northland Region,06,Hawke's Bay Region,2009,387
+01,Northland Region,06,Hawke's Bay Region,2010,378
+01,Northland Region,06,Hawke's Bay Region,2011,360
+01,Northland Region,06,Hawke's Bay Region,2012,363
+01,Northland Region,06,Hawke's Bay Region,2013,396
+01,Northland Region,06,Hawke's Bay Region,2014,354
+01,Northland Region,06,Hawke's Bay Region,2015,450
+01,Northland Region,06,Hawke's Bay Region,2016,462
+01,Northland Region,06,Hawke's Bay Region,2017,432
+01,Northland Region,07,Taranaki Region,2007,216
+01,Northland Region,07,Taranaki Region,2008,327
+01,Northland Region,07,Taranaki Region,2009,342
+01,Northland Region,07,Taranaki Region,2010,387
+01,Northland Region,07,Taranaki Region,2011,312
+01,Northland Region,07,Taranaki Region,2012,294
+01,Northland Region,07,Taranaki Region,2013,303
+01,Northland Region,07,Taranaki Region,2014,324
+01,Northland Region,07,Taranaki Region,2015,357
+01,Northland Region,07,Taranaki Region,2016,390
+01,Northland Region,07,Taranaki Region,2017,402
+01,Northland Region,08,Manawatu-Wanganui Region,2007,378
+01,Northland Region,08,Manawatu-Wanganui Region,2008,558
+01,Northland Region,08,Manawatu-Wanganui Region,2009,603
+01,Northland Region,08,Manawatu-Wanganui Region,2010,600
+01,Northland Region,08,Manawatu-Wanganui Region,2011,576
+01,Northland Region,08,Manawatu-Wanganui Region,2012,549
+01,Northland Region,08,Manawatu-Wanganui Region,2013,567
+01,Northland Region,08,Manawatu-Wanganui Region,2014,642
+01,Northland Region,08,Manawatu-Wanganui Region,2015,651
+01,Northland Region,08,Manawatu-Wanganui Region,2016,717
+01,Northland Region,08,Manawatu-Wanganui Region,2017,825
+01,Northland Region,09,Wellington Region,2007,630
+01,Northland Region,09,Wellington Region,2008,771
+01,Northland Region,09,Wellington Region,2009,831
+01,Northland Region,09,Wellington Region,2010,882
+01,Northland Region,09,Wellington Region,2011,843
+01,Northland Region,09,Wellington Region,2012,834
+01,Northland Region,09,Wellington Region,2013,822
+01,Northland Region,09,Wellington Region,2014,864
+01,Northland Region,09,Wellington Region,2015,957
+01,Northland Region,09,Wellington Region,2016,1119
+01,Northland Region,09,Wellington Region,2017,1047
+01,Northland Region,12,West Coast Region,2007,33
+01,Northland Region,12,West Coast Region,2008,36
+01,Northland Region,12,West Coast Region,2009,54
+01,Northland Region,12,West Coast Region,2010,72
+01,Northland Region,12,West Coast Region,2011,48
+01,Northland Region,12,West Coast Region,2012,54
+01,Northland Region,12,West Coast Region,2013,78
+01,Northland Region,12,West Coast Region,2014,66
+01,Northland Region,12,West Coast Region,2015,78
+01,Northland Region,12,West Coast Region,2016,72
+01,Northland Region,12,West Coast Region,2017,72
+01,Northland Region,13,Canterbury Region,2007,492
+01,Northland Region,13,Canterbury Region,2008,693
+01,Northland Region,13,Canterbury Region,2009,648
+01,Northland Region,13,Canterbury Region,2010,624
+01,Northland Region,13,Canterbury Region,2011,714
+01,Northland Region,13,Canterbury Region,2012,891
+01,Northland Region,13,Canterbury Region,2013,966
+01,Northland Region,13,Canterbury Region,2014,990
+01,Northland Region,13,Canterbury Region,2015,1071
+01,Northland Region,13,Canterbury Region,2016,978
+01,Northland Region,13,Canterbury Region,2017,858
+01,Northland Region,14,Otago Region,2007,327
+01,Northland Region,14,Otago Region,2008,444
+01,Northland Region,14,Otago Region,2009,456
+01,Northland Region,14,Otago Region,2010,435
+01,Northland Region,14,Otago Region,2011,453
+01,Northland Region,14,Otago Region,2012,474
+01,Northland Region,14,Otago Region,2013,483
+01,Northland Region,14,Otago Region,2014,525
+01,Northland Region,14,Otago Region,2015,624
+01,Northland Region,14,Otago Region,2016,558
+01,Northland Region,14,Otago Region,2017,624
+01,Northland Region,15,Southland Region,2007,135
+01,Northland Region,15,Southland Region,2008,150
+01,Northland Region,15,Southland Region,2009,135
+01,Northland Region,15,Southland Region,2010,144
+01,Northland Region,15,Southland Region,2011,150
+01,Northland Region,15,Southland Region,2012,138
+01,Northland Region,15,Southland Region,2013,159
+01,Northland Region,15,Southland Region,2014,150
+01,Northland Region,15,Southland Region,2015,141
+01,Northland Region,15,Southland Region,2016,159
+01,Northland Region,15,Southland Region,2017,186
+01,Northland Region,16,Tasman Region,2007,66
+01,Northland Region,16,Tasman Region,2008,87
+01,Northland Region,16,Tasman Region,2009,69
+01,Northland Region,16,Tasman Region,2010,69
+01,Northland Region,16,Tasman Region,2011,60
+01,Northland Region,16,Tasman Region,2012,87
+01,Northland Region,16,Tasman Region,2013,99
+01,Northland Region,16,Tasman Region,2014,96
+01,Northland Region,16,Tasman Region,2015,105
+01,Northland Region,16,Tasman Region,2016,114
+01,Northland Region,16,Tasman Region,2017,117
+01,Northland Region,17,Nelson Region,2007,66
+01,Northland Region,17,Nelson Region,2008,105
+01,Northland Region,17,Nelson Region,2009,90
+01,Northland Region,17,Nelson Region,2010,99
+01,Northland Region,17,Nelson Region,2011,81
+01,Northland Region,17,Nelson Region,2012,141
+01,Northland Region,17,Nelson Region,2013,96
+01,Northland Region,17,Nelson Region,2014,96
+01,Northland Region,17,Nelson Region,2015,111
+01,Northland Region,17,Nelson Region,2016,120
+01,Northland Region,17,Nelson Region,2017,120
+01,Northland Region,18,Marlborough Region,2007,75
+01,Northland Region,18,Marlborough Region,2008,99
+01,Northland Region,18,Marlborough Region,2009,84
+01,Northland Region,18,Marlborough Region,2010,54
+01,Northland Region,18,Marlborough Region,2011,90
+01,Northland Region,18,Marlborough Region,2012,81
+01,Northland Region,18,Marlborough Region,2013,81
+01,Northland Region,18,Marlborough Region,2014,99
+01,Northland Region,18,Marlborough Region,2015,96
+01,Northland Region,18,Marlborough Region,2016,108
+01,Northland Region,18,Marlborough Region,2017,102
+02,Auckland Region,01,Northland Region,2007,7569
+02,Auckland Region,01,Northland Region,2008,9201
+02,Auckland Region,01,Northland Region,2009,10287
+02,Auckland Region,01,Northland Region,2010,10344
+02,Auckland Region,01,Northland Region,2011,9789
+02,Auckland Region,01,Northland Region,2012,10167
+02,Auckland Region,01,Northland Region,2013,10224
+02,Auckland Region,01,Northland Region,2014,11979
+02,Auckland Region,01,Northland Region,2015,12735
+02,Auckland Region,01,Northland Region,2016,13806
+02,Auckland Region,01,Northland Region,2017,14490
+02,Auckland Region,03,Waikato Region,2007,12285
+02,Auckland Region,03,Waikato Region,2008,14892
+02,Auckland Region,03,Waikato Region,2009,15591
+02,Auckland Region,03,Waikato Region,2010,15876
+02,Auckland Region,03,Waikato Region,2011,15003
+02,Auckland Region,03,Waikato Region,2012,16449
+02,Auckland Region,03,Waikato Region,2013,16800
+02,Auckland Region,03,Waikato Region,2014,19470
+02,Auckland Region,03,Waikato Region,2015,21960
+02,Auckland Region,03,Waikato Region,2016,23670
+02,Auckland Region,03,Waikato Region,2017,24105
+02,Auckland Region,04,Bay of Plenty Region,2007,6780
+02,Auckland Region,04,Bay of Plenty Region,2008,7851
+02,Auckland Region,04,Bay of Plenty Region,2009,8475
+02,Auckland Region,04,Bay of Plenty Region,2010,8895
+02,Auckland Region,04,Bay of Plenty Region,2011,8475
+02,Auckland Region,04,Bay of Plenty Region,2012,8715
+02,Auckland Region,04,Bay of Plenty Region,2013,8775
+02,Auckland Region,04,Bay of Plenty Region,2014,10509
+02,Auckland Region,04,Bay of Plenty Region,2015,12603
+02,Auckland Region,04,Bay of Plenty Region,2016,14310
+02,Auckland Region,04,Bay of Plenty Region,2017,13782
+02,Auckland Region,05,Gisborne Region,2007,825
+02,Auckland Region,05,Gisborne Region,2008,945
+02,Auckland Region,05,Gisborne Region,2009,1017
+02,Auckland Region,05,Gisborne Region,2010,1125
+02,Auckland Region,05,Gisborne Region,2011,1143
+02,Auckland Region,05,Gisborne Region,2012,1167
+02,Auckland Region,05,Gisborne Region,2013,1092
+02,Auckland Region,05,Gisborne Region,2014,1173
+02,Auckland Region,05,Gisborne Region,2015,1326
+02,Auckland Region,05,Gisborne Region,2016,1233
+02,Auckland Region,05,Gisborne Region,2017,1401
+02,Auckland Region,06,Hawke's Bay Region,2007,2430
+02,Auckland Region,06,Hawke's Bay Region,2008,2805
+02,Auckland Region,06,Hawke's Bay Region,2009,3108
+02,Auckland Region,06,Hawke's Bay Region,2010,2973
+02,Auckland Region,06,Hawke's Bay Region,2011,2739
+02,Auckland Region,06,Hawke's Bay Region,2012,2874
+02,Auckland Region,06,Hawke's Bay Region,2013,2952
+02,Auckland Region,06,Hawke's Bay Region,2014,3285
+02,Auckland Region,06,Hawke's Bay Region,2015,4026
+02,Auckland Region,06,Hawke's Bay Region,2016,4392
+02,Auckland Region,06,Hawke's Bay Region,2017,4395
+02,Auckland Region,07,Taranaki Region,2007,1518
+02,Auckland Region,07,Taranaki Region,2008,1857
+02,Auckland Region,07,Taranaki Region,2009,2019
+02,Auckland Region,07,Taranaki Region,2010,1926
+02,Auckland Region,07,Taranaki Region,2011,1668
+02,Auckland Region,07,Taranaki Region,2012,1794
+02,Auckland Region,07,Taranaki Region,2013,1854
+02,Auckland Region,07,Taranaki Region,2014,2091
+02,Auckland Region,07,Taranaki Region,2015,2259
+02,Auckland Region,07,Taranaki Region,2016,2259
+02,Auckland Region,07,Taranaki Region,2017,2643
+02,Auckland Region,08,Manawatu-Wanganui Region,2007,2664
+02,Auckland Region,08,Manawatu-Wanganui Region,2008,3285
+02,Auckland Region,08,Manawatu-Wanganui Region,2009,3948
+02,Auckland Region,08,Manawatu-Wanganui Region,2010,3819
+02,Auckland Region,08,Manawatu-Wanganui Region,2011,3624
+02,Auckland Region,08,Manawatu-Wanganui Region,2012,3768
+02,Auckland Region,08,Manawatu-Wanganui Region,2013,3672
+02,Auckland Region,08,Manawatu-Wanganui Region,2014,3933
+02,Auckland Region,08,Manawatu-Wanganui Region,2015,4497
+02,Auckland Region,08,Manawatu-Wanganui Region,2016,4530
+02,Auckland Region,08,Manawatu-Wanganui Region,2017,5205
+02,Auckland Region,09,Wellington Region,2007,6261
+02,Auckland Region,09,Wellington Region,2008,7518
+02,Auckland Region,09,Wellington Region,2009,8037
+02,Auckland Region,09,Wellington Region,2010,7416
+02,Auckland Region,09,Wellington Region,2011,7656
+02,Auckland Region,09,Wellington Region,2012,7704
+02,Auckland Region,09,Wellington Region,2013,8409
+02,Auckland Region,09,Wellington Region,2014,9345
+02,Auckland Region,09,Wellington Region,2015,9945
+02,Auckland Region,09,Wellington Region,2016,11100
+02,Auckland Region,09,Wellington Region,2017,11415
+02,Auckland Region,12,West Coast Region,2007,174
+02,Auckland Region,12,West Coast Region,2008,219
+02,Auckland Region,12,West Coast Region,2009,291
+02,Auckland Region,12,West Coast Region,2010,351
+02,Auckland Region,12,West Coast Region,2011,261
+02,Auckland Region,12,West Coast Region,2012,255
+02,Auckland Region,12,West Coast Region,2013,270
+02,Auckland Region,12,West Coast Region,2014,297
+02,Auckland Region,12,West Coast Region,2015,336
+02,Auckland Region,12,West Coast Region,2016,294
+02,Auckland Region,12,West Coast Region,2017,300
+02,Auckland Region,13,Canterbury Region,2007,4596
+02,Auckland Region,13,Canterbury Region,2008,5574
+02,Auckland Region,13,Canterbury Region,2009,6018
+02,Auckland Region,13,Canterbury Region,2010,5454
+02,Auckland Region,13,Canterbury Region,2011,5859
+02,Auckland Region,13,Canterbury Region,2012,6732
+02,Auckland Region,13,Canterbury Region,2013,7353
+02,Auckland Region,13,Canterbury Region,2014,7632
+02,Auckland Region,13,Canterbury Region,2015,8652
+02,Auckland Region,13,Canterbury Region,2016,8706
+02,Auckland Region,13,Canterbury Region,2017,8556
+02,Auckland Region,14,Otago Region,2007,3075
+02,Auckland Region,14,Otago Region,2008,3450
+02,Auckland Region,14,Otago Region,2009,3837
+02,Auckland Region,14,Otago Region,2010,3750
+02,Auckland Region,14,Otago Region,2011,3855
+02,Auckland Region,14,Otago Region,2012,3813
+02,Auckland Region,14,Otago Region,2013,4251
+02,Auckland Region,14,Otago Region,2014,5085
+02,Auckland Region,14,Otago Region,2015,5730
+02,Auckland Region,14,Otago Region,2016,6090
+02,Auckland Region,14,Otago Region,2017,6147
+02,Auckland Region,15,Southland Region,2007,555
+02,Auckland Region,15,Southland Region,2008,612
+02,Auckland Region,15,Southland Region,2009,741
+02,Auckland Region,15,Southland Region,2010,681
+02,Auckland Region,15,Southland Region,2011,711
+02,Auckland Region,15,Southland Region,2012,723
+02,Auckland Region,15,Southland Region,2013,705
+02,Auckland Region,15,Southland Region,2014,762
+02,Auckland Region,15,Southland Region,2015,786
+02,Auckland Region,15,Southland Region,2016,795
+02,Auckland Region,15,Southland Region,2017,816
+02,Auckland Region,16,Tasman Region,2007,381
+02,Auckland Region,16,Tasman Region,2008,462
+02,Auckland Region,16,Tasman Region,2009,462
+02,Auckland Region,16,Tasman Region,2010,435
+02,Auckland Region,16,Tasman Region,2011,405
+02,Auckland Region,16,Tasman Region,2012,495
+02,Auckland Region,16,Tasman Region,2013,507
+02,Auckland Region,16,Tasman Region,2014,651
+02,Auckland Region,16,Tasman Region,2015,774
+02,Auckland Region,16,Tasman Region,2016,795
+02,Auckland Region,16,Tasman Region,2017,1017
+02,Auckland Region,17,Nelson Region,2007,612
+02,Auckland Region,17,Nelson Region,2008,720
+02,Auckland Region,17,Nelson Region,2009,780
+02,Auckland Region,17,Nelson Region,2010,708
+02,Auckland Region,17,Nelson Region,2011,666
+02,Auckland Region,17,Nelson Region,2012,729
+02,Auckland Region,17,Nelson Region,2013,732
+02,Auckland Region,17,Nelson Region,2014,837
+02,Auckland Region,17,Nelson Region,2015,963
+02,Auckland Region,17,Nelson Region,2016,1041
+02,Auckland Region,17,Nelson Region,2017,1233
+02,Auckland Region,18,Marlborough Region,2007,516
+02,Auckland Region,18,Marlborough Region,2008,642
+02,Auckland Region,18,Marlborough Region,2009,675
+02,Auckland Region,18,Marlborough Region,2010,609
+02,Auckland Region,18,Marlborough Region,2011,606
+02,Auckland Region,18,Marlborough Region,2012,711
+02,Auckland Region,18,Marlborough Region,2013,720
+02,Auckland Region,18,Marlborough Region,2014,765
+02,Auckland Region,18,Marlborough Region,2015,870
+02,Auckland Region,18,Marlborough Region,2016,966
+02,Auckland Region,18,Marlborough Region,2017,975
+03,Waikato Region,01,Northland Region,2007,1740
+03,Waikato Region,01,Northland Region,2008,2217
+03,Waikato Region,01,Northland Region,2009,2187
+03,Waikato Region,01,Northland Region,2010,2292
+03,Waikato Region,01,Northland Region,2011,2205
+03,Waikato Region,01,Northland Region,2012,2271
+03,Waikato Region,01,Northland Region,2013,2313
+03,Waikato Region,01,Northland Region,2014,2526
+03,Waikato Region,01,Northland Region,2015,2757
+03,Waikato Region,01,Northland Region,2016,2727
+03,Waikato Region,01,Northland Region,2017,2706
+03,Waikato Region,02,Auckland Region,2007,11349
+03,Waikato Region,02,Auckland Region,2008,13905
+03,Waikato Region,02,Auckland Region,2009,15528
+03,Waikato Region,02,Auckland Region,2010,14997
+03,Waikato Region,02,Auckland Region,2011,14505
+03,Waikato Region,02,Auckland Region,2012,15279
+03,Waikato Region,02,Auckland Region,2013,15684
+03,Waikato Region,02,Auckland Region,2014,17478
+03,Waikato Region,02,Auckland Region,2015,18135
+03,Waikato Region,02,Auckland Region,2016,19035
+03,Waikato Region,02,Auckland Region,2017,18969
+03,Waikato Region,04,Bay of Plenty Region,2007,7752
+03,Waikato Region,04,Bay of Plenty Region,2008,9207
+03,Waikato Region,04,Bay of Plenty Region,2009,9822
+03,Waikato Region,04,Bay of Plenty Region,2010,10158
+03,Waikato Region,04,Bay of Plenty Region,2011,9636
+03,Waikato Region,04,Bay of Plenty Region,2012,9561
+03,Waikato Region,04,Bay of Plenty Region,2013,9816
+03,Waikato Region,04,Bay of Plenty Region,2014,10812
+03,Waikato Region,04,Bay of Plenty Region,2015,11358
+03,Waikato Region,04,Bay of Plenty Region,2016,11676
+03,Waikato Region,04,Bay of Plenty Region,2017,11256
+03,Waikato Region,05,Gisborne Region,2007,576
+03,Waikato Region,05,Gisborne Region,2008,756
+03,Waikato Region,05,Gisborne Region,2009,699
+03,Waikato Region,05,Gisborne Region,2010,762
+03,Waikato Region,05,Gisborne Region,2011,804
+03,Waikato Region,05,Gisborne Region,2012,705
+03,Waikato Region,05,Gisborne Region,2013,780
+03,Waikato Region,05,Gisborne Region,2014,789
+03,Waikato Region,05,Gisborne Region,2015,825
+03,Waikato Region,05,Gisborne Region,2016,885
+03,Waikato Region,05,Gisborne Region,2017,813
+03,Waikato Region,06,Hawke's Bay Region,2007,1569
+03,Waikato Region,06,Hawke's Bay Region,2008,1920
+03,Waikato Region,06,Hawke's Bay Region,2009,2043
+03,Waikato Region,06,Hawke's Bay Region,2010,1791
+03,Waikato Region,06,Hawke's Bay Region,2011,1800
+03,Waikato Region,06,Hawke's Bay Region,2012,1719
+03,Waikato Region,06,Hawke's Bay Region,2013,1848
+03,Waikato Region,06,Hawke's Bay Region,2014,1911
+03,Waikato Region,06,Hawke's Bay Region,2015,2121
+03,Waikato Region,06,Hawke's Bay Region,2016,2364
+03,Waikato Region,06,Hawke's Bay Region,2017,2229
+03,Waikato Region,07,Taranaki Region,2007,1257
+03,Waikato Region,07,Taranaki Region,2008,1509
+03,Waikato Region,07,Taranaki Region,2009,1584
+03,Waikato Region,07,Taranaki Region,2010,1485
+03,Waikato Region,07,Taranaki Region,2011,1497
+03,Waikato Region,07,Taranaki Region,2012,1491
+03,Waikato Region,07,Taranaki Region,2013,1542
+03,Waikato Region,07,Taranaki Region,2014,1695
+03,Waikato Region,07,Taranaki Region,2015,1674
+03,Waikato Region,07,Taranaki Region,2016,1707
+03,Waikato Region,07,Taranaki Region,2017,1770
+03,Waikato Region,08,Manawatu-Wanganui Region,2007,2097
+03,Waikato Region,08,Manawatu-Wanganui Region,2008,2784
+03,Waikato Region,08,Manawatu-Wanganui Region,2009,3264
+03,Waikato Region,08,Manawatu-Wanganui Region,2010,3306
+03,Waikato Region,08,Manawatu-Wanganui Region,2011,2820
+03,Waikato Region,08,Manawatu-Wanganui Region,2012,2769
+03,Waikato Region,08,Manawatu-Wanganui Region,2013,2823
+03,Waikato Region,08,Manawatu-Wanganui Region,2014,3186
+03,Waikato Region,08,Manawatu-Wanganui Region,2015,3411
+03,Waikato Region,08,Manawatu-Wanganui Region,2016,3567
+03,Waikato Region,08,Manawatu-Wanganui Region,2017,3513
+03,Waikato Region,09,Wellington Region,2007,2631
+03,Waikato Region,09,Wellington Region,2008,3120
+03,Waikato Region,09,Wellington Region,2009,3060
+03,Waikato Region,09,Wellington Region,2010,3018
+03,Waikato Region,09,Wellington Region,2011,3066
+03,Waikato Region,09,Wellington Region,2012,2961
+03,Waikato Region,09,Wellington Region,2013,2955
+03,Waikato Region,09,Wellington Region,2014,3126
+03,Waikato Region,09,Wellington Region,2015,3258
+03,Waikato Region,09,Wellington Region,2016,3450
+03,Waikato Region,09,Wellington Region,2017,3426
+03,Waikato Region,12,West Coast Region,2007,132
+03,Waikato Region,12,West Coast Region,2008,177
+03,Waikato Region,12,West Coast Region,2009,204
+03,Waikato Region,12,West Coast Region,2010,192
+03,Waikato Region,12,West Coast Region,2011,216
+03,Waikato Region,12,West Coast Region,2012,186
+03,Waikato Region,12,West Coast Region,2013,210
+03,Waikato Region,12,West Coast Region,2014,243
+03,Waikato Region,12,West Coast Region,2015,219
+03,Waikato Region,12,West Coast Region,2016,207
+03,Waikato Region,12,West Coast Region,2017,171
+03,Waikato Region,13,Canterbury Region,2007,1536
+03,Waikato Region,13,Canterbury Region,2008,1866
+03,Waikato Region,13,Canterbury Region,2009,2040
+03,Waikato Region,13,Canterbury Region,2010,1986
+03,Waikato Region,13,Canterbury Region,2011,2058
+03,Waikato Region,13,Canterbury Region,2012,2373
+03,Waikato Region,13,Canterbury Region,2013,2493
+03,Waikato Region,13,Canterbury Region,2014,2490
+03,Waikato Region,13,Canterbury Region,2015,2784
+03,Waikato Region,13,Canterbury Region,2016,2643
+03,Waikato Region,13,Canterbury Region,2017,2538
+03,Waikato Region,14,Otago Region,2007,939
+03,Waikato Region,14,Otago Region,2008,1107
+03,Waikato Region,14,Otago Region,2009,1104
+03,Waikato Region,14,Otago Region,2010,1023
+03,Waikato Region,14,Otago Region,2011,1023
+03,Waikato Region,14,Otago Region,2012,1056
+03,Waikato Region,14,Otago Region,2013,1152
+03,Waikato Region,14,Otago Region,2014,1302
+03,Waikato Region,14,Otago Region,2015,1338
+03,Waikato Region,14,Otago Region,2016,1410
+03,Waikato Region,14,Otago Region,2017,1380
+03,Waikato Region,15,Southland Region,2007,318
+03,Waikato Region,15,Southland Region,2008,444
+03,Waikato Region,15,Southland Region,2009,648
+03,Waikato Region,15,Southland Region,2010,579
+03,Waikato Region,15,Southland Region,2011,468
+03,Waikato Region,15,Southland Region,2012,426
+03,Waikato Region,15,Southland Region,2013,441
+03,Waikato Region,15,Southland Region,2014,477
+03,Waikato Region,15,Southland Region,2015,507
+03,Waikato Region,15,Southland Region,2016,507
+03,Waikato Region,15,Southland Region,2017,471
+03,Waikato Region,16,Tasman Region,2007,171
+03,Waikato Region,16,Tasman Region,2008,198
+03,Waikato Region,16,Tasman Region,2009,192
+03,Waikato Region,16,Tasman Region,2010,216
+03,Waikato Region,16,Tasman Region,2011,177
+03,Waikato Region,16,Tasman Region,2012,174
+03,Waikato Region,16,Tasman Region,2013,183
+03,Waikato Region,16,Tasman Region,2014,252
+03,Waikato Region,16,Tasman Region,2015,219
+03,Waikato Region,16,Tasman Region,2016,252
+03,Waikato Region,16,Tasman Region,2017,279
+03,Waikato Region,17,Nelson Region,2007,225
+03,Waikato Region,17,Nelson Region,2008,246
+03,Waikato Region,17,Nelson Region,2009,270
+03,Waikato Region,17,Nelson Region,2010,243
+03,Waikato Region,17,Nelson Region,2011,207
+03,Waikato Region,17,Nelson Region,2012,240
+03,Waikato Region,17,Nelson Region,2013,240
+03,Waikato Region,17,Nelson Region,2014,273
+03,Waikato Region,17,Nelson Region,2015,261
+03,Waikato Region,17,Nelson Region,2016,258
+03,Waikato Region,17,Nelson Region,2017,294
+03,Waikato Region,18,Marlborough Region,2007,204
+03,Waikato Region,18,Marlborough Region,2008,252
+03,Waikato Region,18,Marlborough Region,2009,252
+03,Waikato Region,18,Marlborough Region,2010,204
+03,Waikato Region,18,Marlborough Region,2011,240
+03,Waikato Region,18,Marlborough Region,2012,252
+03,Waikato Region,18,Marlborough Region,2013,231
+03,Waikato Region,18,Marlborough Region,2014,255
+03,Waikato Region,18,Marlborough Region,2015,282
+03,Waikato Region,18,Marlborough Region,2016,255
+03,Waikato Region,18,Marlborough Region,2017,297
+04,Bay of Plenty Region,01,Northland Region,2007,930
+04,Bay of Plenty Region,01,Northland Region,2008,1095
+04,Bay of Plenty Region,01,Northland Region,2009,1161
+04,Bay of Plenty Region,01,Northland Region,2010,1212
+04,Bay of Plenty Region,01,Northland Region,2011,1149
+04,Bay of Plenty Region,01,Northland Region,2012,1257
+04,Bay of Plenty Region,01,Northland Region,2013,1104
+04,Bay of Plenty Region,01,Northland Region,2014,1347
+04,Bay of Plenty Region,01,Northland Region,2015,1437
+04,Bay of Plenty Region,01,Northland Region,2016,1401
+04,Bay of Plenty Region,01,Northland Region,2017,1587
+04,Bay of Plenty Region,02,Auckland Region,2007,6120
+04,Bay of Plenty Region,02,Auckland Region,2008,7374
+04,Bay of Plenty Region,02,Auckland Region,2009,8298
+04,Bay of Plenty Region,02,Auckland Region,2010,7998
+04,Bay of Plenty Region,02,Auckland Region,2011,8148
+04,Bay of Plenty Region,02,Auckland Region,2012,8562
+04,Bay of Plenty Region,02,Auckland Region,2013,8469
+04,Bay of Plenty Region,02,Auckland Region,2014,9087
+04,Bay of Plenty Region,02,Auckland Region,2015,9624
+04,Bay of Plenty Region,02,Auckland Region,2016,10206
+04,Bay of Plenty Region,02,Auckland Region,2017,10164
+04,Bay of Plenty Region,03,Waikato Region,2007,7224
+04,Bay of Plenty Region,03,Waikato Region,2008,9105
+04,Bay of Plenty Region,03,Waikato Region,2009,9591
+04,Bay of Plenty Region,03,Waikato Region,2010,9843
+04,Bay of Plenty Region,03,Waikato Region,2011,9429
+04,Bay of Plenty Region,03,Waikato Region,2012,9849
+04,Bay of Plenty Region,03,Waikato Region,2013,9606
+04,Bay of Plenty Region,03,Waikato Region,2014,10302
+04,Bay of Plenty Region,03,Waikato Region,2015,11016
+04,Bay of Plenty Region,03,Waikato Region,2016,11727
+04,Bay of Plenty Region,03,Waikato Region,2017,11565
+04,Bay of Plenty Region,05,Gisborne Region,2007,624
+04,Bay of Plenty Region,05,Gisborne Region,2008,771
+04,Bay of Plenty Region,05,Gisborne Region,2009,738
+04,Bay of Plenty Region,05,Gisborne Region,2010,876
+04,Bay of Plenty Region,05,Gisborne Region,2011,930
+04,Bay of Plenty Region,05,Gisborne Region,2012,942
+04,Bay of Plenty Region,05,Gisborne Region,2013,825
+04,Bay of Plenty Region,05,Gisborne Region,2014,828
+04,Bay of Plenty Region,05,Gisborne Region,2015,876
+04,Bay of Plenty Region,05,Gisborne Region,2016,909
+04,Bay of Plenty Region,05,Gisborne Region,2017,1014
+04,Bay of Plenty Region,06,Hawke's Bay Region,2007,1224
+04,Bay of Plenty Region,06,Hawke's Bay Region,2008,1362
+04,Bay of Plenty Region,06,Hawke's Bay Region,2009,1437
+04,Bay of Plenty Region,06,Hawke's Bay Region,2010,1377
+04,Bay of Plenty Region,06,Hawke's Bay Region,2011,1362
+04,Bay of Plenty Region,06,Hawke's Bay Region,2012,1284
+04,Bay of Plenty Region,06,Hawke's Bay Region,2013,1407
+04,Bay of Plenty Region,06,Hawke's Bay Region,2014,1464
+04,Bay of Plenty Region,06,Hawke's Bay Region,2015,1533
+04,Bay of Plenty Region,06,Hawke's Bay Region,2016,1677
+04,Bay of Plenty Region,06,Hawke's Bay Region,2017,1611
+04,Bay of Plenty Region,07,Taranaki Region,2007,585
+04,Bay of Plenty Region,07,Taranaki Region,2008,699
+04,Bay of Plenty Region,07,Taranaki Region,2009,702
+04,Bay of Plenty Region,07,Taranaki Region,2010,729
+04,Bay of Plenty Region,07,Taranaki Region,2011,612
+04,Bay of Plenty Region,07,Taranaki Region,2012,654
+04,Bay of Plenty Region,07,Taranaki Region,2013,585
+04,Bay of Plenty Region,07,Taranaki Region,2014,723
+04,Bay of Plenty Region,07,Taranaki Region,2015,744
+04,Bay of Plenty Region,07,Taranaki Region,2016,804
+04,Bay of Plenty Region,07,Taranaki Region,2017,846
+04,Bay of Plenty Region,08,Manawatu-Wanganui Region,2007,1320
+04,Bay of Plenty Region,08,Manawatu-Wanganui Region,2008,1662
+04,Bay of Plenty Region,08,Manawatu-Wanganui Region,2009,1863
+04,Bay of Plenty Region,08,Manawatu-Wanganui Region,2010,1863
+04,Bay of Plenty Region,08,Manawatu-Wanganui Region,2011,1782
+04,Bay of Plenty Region,08,Manawatu-Wanganui Region,2012,1803
+04,Bay of Plenty Region,08,Manawatu-Wanganui Region,2013,1614
+04,Bay of Plenty Region,08,Manawatu-Wanganui Region,2014,1875
+04,Bay of Plenty Region,08,Manawatu-Wanganui Region,2015,1923
+04,Bay of Plenty Region,08,Manawatu-Wanganui Region,2016,2049
+04,Bay of Plenty Region,08,Manawatu-Wanganui Region,2017,2169
+04,Bay of Plenty Region,09,Wellington Region,2007,2148
+04,Bay of Plenty Region,09,Wellington Region,2008,2424
+04,Bay of Plenty Region,09,Wellington Region,2009,2568
+04,Bay of Plenty Region,09,Wellington Region,2010,2655
+04,Bay of Plenty Region,09,Wellington Region,2011,2550
+04,Bay of Plenty Region,09,Wellington Region,2012,2517
+04,Bay of Plenty Region,09,Wellington Region,2013,2553
+04,Bay of Plenty Region,09,Wellington Region,2014,2808
+04,Bay of Plenty Region,09,Wellington Region,2015,2949
+04,Bay of Plenty Region,09,Wellington Region,2016,3168
+04,Bay of Plenty Region,09,Wellington Region,2017,3105
+04,Bay of Plenty Region,12,West Coast Region,2007,84
+04,Bay of Plenty Region,12,West Coast Region,2008,141
+04,Bay of Plenty Region,12,West Coast Region,2009,168
+04,Bay of Plenty Region,12,West Coast Region,2010,114
+04,Bay of Plenty Region,12,West Coast Region,2011,129
+04,Bay of Plenty Region,12,West Coast Region,2012,153
+04,Bay of Plenty Region,12,West Coast Region,2013,129
+04,Bay of Plenty Region,12,West Coast Region,2014,144
+04,Bay of Plenty Region,12,West Coast Region,2015,120
+04,Bay of Plenty Region,12,West Coast Region,2016,159
+04,Bay of Plenty Region,12,West Coast Region,2017,147
+04,Bay of Plenty Region,13,Canterbury Region,2007,1143
+04,Bay of Plenty Region,13,Canterbury Region,2008,1287
+04,Bay of Plenty Region,13,Canterbury Region,2009,1566
+04,Bay of Plenty Region,13,Canterbury Region,2010,1404
+04,Bay of Plenty Region,13,Canterbury Region,2011,1500
+04,Bay of Plenty Region,13,Canterbury Region,2012,1752
+04,Bay of Plenty Region,13,Canterbury Region,2013,1977
+04,Bay of Plenty Region,13,Canterbury Region,2014,2064
+04,Bay of Plenty Region,13,Canterbury Region,2015,2430
+04,Bay of Plenty Region,13,Canterbury Region,2016,2163
+04,Bay of Plenty Region,13,Canterbury Region,2017,2124
+04,Bay of Plenty Region,14,Otago Region,2007,735
+04,Bay of Plenty Region,14,Otago Region,2008,831
+04,Bay of Plenty Region,14,Otago Region,2009,930
+04,Bay of Plenty Region,14,Otago Region,2010,864
+04,Bay of Plenty Region,14,Otago Region,2011,900
+04,Bay of Plenty Region,14,Otago Region,2012,873
+04,Bay of Plenty Region,14,Otago Region,2013,936
+04,Bay of Plenty Region,14,Otago Region,2014,960
+04,Bay of Plenty Region,14,Otago Region,2015,1074
+04,Bay of Plenty Region,14,Otago Region,2016,1137
+04,Bay of Plenty Region,14,Otago Region,2017,1152
+04,Bay of Plenty Region,15,Southland Region,2007,216
+04,Bay of Plenty Region,15,Southland Region,2008,258
+04,Bay of Plenty Region,15,Southland Region,2009,318
+04,Bay of Plenty Region,15,Southland Region,2010,288
+04,Bay of Plenty Region,15,Southland Region,2011,276
+04,Bay of Plenty Region,15,Southland Region,2012,258
+04,Bay of Plenty Region,15,Southland Region,2013,264
+04,Bay of Plenty Region,15,Southland Region,2014,273
+04,Bay of Plenty Region,15,Southland Region,2015,300
+04,Bay of Plenty Region,15,Southland Region,2016,306
+04,Bay of Plenty Region,15,Southland Region,2017,318
+04,Bay of Plenty Region,16,Tasman Region,2007,117
+04,Bay of Plenty Region,16,Tasman Region,2008,171
+04,Bay of Plenty Region,16,Tasman Region,2009,171
+04,Bay of Plenty Region,16,Tasman Region,2010,150
+04,Bay of Plenty Region,16,Tasman Region,2011,141
+04,Bay of Plenty Region,16,Tasman Region,2012,177
+04,Bay of Plenty Region,16,Tasman Region,2013,162
+04,Bay of Plenty Region,16,Tasman Region,2014,207
+04,Bay of Plenty Region,16,Tasman Region,2015,201
+04,Bay of Plenty Region,16,Tasman Region,2016,216
+04,Bay of Plenty Region,16,Tasman Region,2017,195
+04,Bay of Plenty Region,17,Nelson Region,2007,117
+04,Bay of Plenty Region,17,Nelson Region,2008,189
+04,Bay of Plenty Region,17,Nelson Region,2009,222
+04,Bay of Plenty Region,17,Nelson Region,2010,174
+04,Bay of Plenty Region,17,Nelson Region,2011,153
+04,Bay of Plenty Region,17,Nelson Region,2012,210
+04,Bay of Plenty Region,17,Nelson Region,2013,177
+04,Bay of Plenty Region,17,Nelson Region,2014,216
+04,Bay of Plenty Region,17,Nelson Region,2015,228
+04,Bay of Plenty Region,17,Nelson Region,2016,228
+04,Bay of Plenty Region,17,Nelson Region,2017,249
+04,Bay of Plenty Region,18,Marlborough Region,2007,198
+04,Bay of Plenty Region,18,Marlborough Region,2008,201
+04,Bay of Plenty Region,18,Marlborough Region,2009,189
+04,Bay of Plenty Region,18,Marlborough Region,2010,210
+04,Bay of Plenty Region,18,Marlborough Region,2011,168
+04,Bay of Plenty Region,18,Marlborough Region,2012,222
+04,Bay of Plenty Region,18,Marlborough Region,2013,177
+04,Bay of Plenty Region,18,Marlborough Region,2014,222
+04,Bay of Plenty Region,18,Marlborough Region,2015,213
+04,Bay of Plenty Region,18,Marlborough Region,2016,210
+04,Bay of Plenty Region,18,Marlborough Region,2017,249
+05,Gisborne Region,01,Northland Region,2007,87
+05,Gisborne Region,01,Northland Region,2008,132
+05,Gisborne Region,01,Northland Region,2009,120
+05,Gisborne Region,01,Northland Region,2010,129
+05,Gisborne Region,01,Northland Region,2011,156
+05,Gisborne Region,01,Northland Region,2012,135
+05,Gisborne Region,01,Northland Region,2013,138
+05,Gisborne Region,01,Northland Region,2014,156
+05,Gisborne Region,01,Northland Region,2015,174
+05,Gisborne Region,01,Northland Region,2016,135
+05,Gisborne Region,01,Northland Region,2017,168
+05,Gisborne Region,02,Auckland Region,2007,822
+05,Gisborne Region,02,Auckland Region,2008,894
+05,Gisborne Region,02,Auckland Region,2009,1152
+05,Gisborne Region,02,Auckland Region,2010,1029
+05,Gisborne Region,02,Auckland Region,2011,1134
+05,Gisborne Region,02,Auckland Region,2012,1065
+05,Gisborne Region,02,Auckland Region,2013,1065
+05,Gisborne Region,02,Auckland Region,2014,1179
+05,Gisborne Region,02,Auckland Region,2015,1221
+05,Gisborne Region,02,Auckland Region,2016,1218
+05,Gisborne Region,02,Auckland Region,2017,1200
+05,Gisborne Region,03,Waikato Region,2007,642
+05,Gisborne Region,03,Waikato Region,2008,786
+05,Gisborne Region,03,Waikato Region,2009,720
+05,Gisborne Region,03,Waikato Region,2010,762
+05,Gisborne Region,03,Waikato Region,2011,828
+05,Gisborne Region,03,Waikato Region,2012,780
+05,Gisborne Region,03,Waikato Region,2013,816
+05,Gisborne Region,03,Waikato Region,2014,864
+05,Gisborne Region,03,Waikato Region,2015,954
+05,Gisborne Region,03,Waikato Region,2016,816
+05,Gisborne Region,03,Waikato Region,2017,897
+05,Gisborne Region,04,Bay of Plenty Region,2007,666
+05,Gisborne Region,04,Bay of Plenty Region,2008,819
+05,Gisborne Region,04,Bay of Plenty Region,2009,867
+05,Gisborne Region,04,Bay of Plenty Region,2010,894
+05,Gisborne Region,04,Bay of Plenty Region,2011,858
+05,Gisborne Region,04,Bay of Plenty Region,2012,840
+05,Gisborne Region,04,Bay of Plenty Region,2013,888
+05,Gisborne Region,04,Bay of Plenty Region,2014,924
+05,Gisborne Region,04,Bay of Plenty Region,2015,963
+05,Gisborne Region,04,Bay of Plenty Region,2016,915
+05,Gisborne Region,04,Bay of Plenty Region,2017,972
+05,Gisborne Region,06,Hawke's Bay Region,2007,714
+05,Gisborne Region,06,Hawke's Bay Region,2008,810
+05,Gisborne Region,06,Hawke's Bay Region,2009,819
+05,Gisborne Region,06,Hawke's Bay Region,2010,882
+05,Gisborne Region,06,Hawke's Bay Region,2011,753
+05,Gisborne Region,06,Hawke's Bay Region,2012,780
+05,Gisborne Region,06,Hawke's Bay Region,2013,864
+05,Gisborne Region,06,Hawke's Bay Region,2014,981
+05,Gisborne Region,06,Hawke's Bay Region,2015,966
+05,Gisborne Region,06,Hawke's Bay Region,2016,1065
+05,Gisborne Region,06,Hawke's Bay Region,2017,1059
+05,Gisborne Region,07,Taranaki Region,2007,63
+05,Gisborne Region,07,Taranaki Region,2008,69
+05,Gisborne Region,07,Taranaki Region,2009,84
+05,Gisborne Region,07,Taranaki Region,2010,69
+05,Gisborne Region,07,Taranaki Region,2011,84
+05,Gisborne Region,07,Taranaki Region,2012,75
+05,Gisborne Region,07,Taranaki Region,2013,72
+05,Gisborne Region,07,Taranaki Region,2014,75
+05,Gisborne Region,07,Taranaki Region,2015,78
+05,Gisborne Region,07,Taranaki Region,2016,69
+05,Gisborne Region,07,Taranaki Region,2017,72
+05,Gisborne Region,08,Manawatu-Wanganui Region,2007,321
+05,Gisborne Region,08,Manawatu-Wanganui Region,2008,417
+05,Gisborne Region,08,Manawatu-Wanganui Region,2009,390
+05,Gisborne Region,08,Manawatu-Wanganui Region,2010,384
+05,Gisborne Region,08,Manawatu-Wanganui Region,2011,390
+05,Gisborne Region,08,Manawatu-Wanganui Region,2012,393
+05,Gisborne Region,08,Manawatu-Wanganui Region,2013,354
+05,Gisborne Region,08,Manawatu-Wanganui Region,2014,411
+05,Gisborne Region,08,Manawatu-Wanganui Region,2015,453
+05,Gisborne Region,08,Manawatu-Wanganui Region,2016,474
+05,Gisborne Region,08,Manawatu-Wanganui Region,2017,477
+05,Gisborne Region,09,Wellington Region,2007,654
+05,Gisborne Region,09,Wellington Region,2008,675
+05,Gisborne Region,09,Wellington Region,2009,669
+05,Gisborne Region,09,Wellington Region,2010,702
+05,Gisborne Region,09,Wellington Region,2011,792
+05,Gisborne Region,09,Wellington Region,2012,732
+05,Gisborne Region,09,Wellington Region,2013,720
+05,Gisborne Region,09,Wellington Region,2014,768
+05,Gisborne Region,09,Wellington Region,2015,714
+05,Gisborne Region,09,Wellington Region,2016,741
+05,Gisborne Region,09,Wellington Region,2017,756
+05,Gisborne Region,12,West Coast Region,2007,21
+05,Gisborne Region,12,West Coast Region,2008,15
+05,Gisborne Region,12,West Coast Region,2009,27
+05,Gisborne Region,12,West Coast Region,2010,15
+05,Gisborne Region,12,West Coast Region,2011,15
+05,Gisborne Region,12,West Coast Region,2012,9
+05,Gisborne Region,12,West Coast Region,2013,6
+05,Gisborne Region,12,West Coast Region,2014,12
+05,Gisborne Region,12,West Coast Region,2015,18
+05,Gisborne Region,12,West Coast Region,2016,15
+05,Gisborne Region,12,West Coast Region,2017,12
+05,Gisborne Region,13,Canterbury Region,2007,174
+05,Gisborne Region,13,Canterbury Region,2008,261
+05,Gisborne Region,13,Canterbury Region,2009,279
+05,Gisborne Region,13,Canterbury Region,2010,234
+05,Gisborne Region,13,Canterbury Region,2011,261
+05,Gisborne Region,13,Canterbury Region,2012,240
+05,Gisborne Region,13,Canterbury Region,2013,309
+05,Gisborne Region,13,Canterbury Region,2014,294
+05,Gisborne Region,13,Canterbury Region,2015,354
+05,Gisborne Region,13,Canterbury Region,2016,330
+05,Gisborne Region,13,Canterbury Region,2017,282
+05,Gisborne Region,14,Otago Region,2007,147
+05,Gisborne Region,14,Otago Region,2008,177
+05,Gisborne Region,14,Otago Region,2009,168
+05,Gisborne Region,14,Otago Region,2010,147
+05,Gisborne Region,14,Otago Region,2011,165
+05,Gisborne Region,14,Otago Region,2012,156
+05,Gisborne Region,14,Otago Region,2013,153
+05,Gisborne Region,14,Otago Region,2014,180
+05,Gisborne Region,14,Otago Region,2015,171
+05,Gisborne Region,14,Otago Region,2016,189
+05,Gisborne Region,14,Otago Region,2017,171
+05,Gisborne Region,15,Southland Region,2007,36
+05,Gisborne Region,15,Southland Region,2008,57
+05,Gisborne Region,15,Southland Region,2009,63
+05,Gisborne Region,15,Southland Region,2010,75
+05,Gisborne Region,15,Southland Region,2011,60
+05,Gisborne Region,15,Southland Region,2012,42
+05,Gisborne Region,15,Southland Region,2013,48
+05,Gisborne Region,15,Southland Region,2014,63
+05,Gisborne Region,15,Southland Region,2015,63
+05,Gisborne Region,15,Southland Region,2016,66
+05,Gisborne Region,15,Southland Region,2017,60
+05,Gisborne Region,16,Tasman Region,2007,18
+05,Gisborne Region,16,Tasman Region,2008,27
+05,Gisborne Region,16,Tasman Region,2009,18
+05,Gisborne Region,16,Tasman Region,2010,21
+05,Gisborne Region,16,Tasman Region,2011,15
+05,Gisborne Region,16,Tasman Region,2012,21
+05,Gisborne Region,16,Tasman Region,2013,33
+05,Gisborne Region,16,Tasman Region,2014,33
+05,Gisborne Region,16,Tasman Region,2015,48
+05,Gisborne Region,16,Tasman Region,2016,24
+05,Gisborne Region,16,Tasman Region,2017,24
+05,Gisborne Region,17,Nelson Region,2007,33
+05,Gisborne Region,17,Nelson Region,2008,27
+05,Gisborne Region,17,Nelson Region,2009,30
+05,Gisborne Region,17,Nelson Region,2010,33
+05,Gisborne Region,17,Nelson Region,2011,48
+05,Gisborne Region,17,Nelson Region,2012,51
+05,Gisborne Region,17,Nelson Region,2013,21
+05,Gisborne Region,17,Nelson Region,2014,33
+05,Gisborne Region,17,Nelson Region,2015,36
+05,Gisborne Region,17,Nelson Region,2016,33
+05,Gisborne Region,17,Nelson Region,2017,42
+05,Gisborne Region,18,Marlborough Region,2007,54
+05,Gisborne Region,18,Marlborough Region,2008,39
+05,Gisborne Region,18,Marlborough Region,2009,36
+05,Gisborne Region,18,Marlborough Region,2010,24
+05,Gisborne Region,18,Marlborough Region,2011,39
+05,Gisborne Region,18,Marlborough Region,2012,48
+05,Gisborne Region,18,Marlborough Region,2013,69
+05,Gisborne Region,18,Marlborough Region,2014,51
+05,Gisborne Region,18,Marlborough Region,2015,54
+05,Gisborne Region,18,Marlborough Region,2016,48
+05,Gisborne Region,18,Marlborough Region,2017,54
+06,Hawke's Bay Region,01,Northland Region,2007,321
+06,Hawke's Bay Region,01,Northland Region,2008,360
+06,Hawke's Bay Region,01,Northland Region,2009,396
+06,Hawke's Bay Region,01,Northland Region,2010,363
+06,Hawke's Bay Region,01,Northland Region,2011,339
+06,Hawke's Bay Region,01,Northland Region,2012,342
+06,Hawke's Bay Region,01,Northland Region,2013,378
+06,Hawke's Bay Region,01,Northland Region,2014,420
+06,Hawke's Bay Region,01,Northland Region,2015,405
+06,Hawke's Bay Region,01,Northland Region,2016,453
+06,Hawke's Bay Region,01,Northland Region,2017,429
+06,Hawke's Bay Region,02,Auckland Region,2007,2355
+06,Hawke's Bay Region,02,Auckland Region,2008,2862
+06,Hawke's Bay Region,02,Auckland Region,2009,3222
+06,Hawke's Bay Region,02,Auckland Region,2010,2880
+06,Hawke's Bay Region,02,Auckland Region,2011,2823
+06,Hawke's Bay Region,02,Auckland Region,2012,2925
+06,Hawke's Bay Region,02,Auckland Region,2013,2847
+06,Hawke's Bay Region,02,Auckland Region,2014,3213
+06,Hawke's Bay Region,02,Auckland Region,2015,3561
+06,Hawke's Bay Region,02,Auckland Region,2016,3465
+06,Hawke's Bay Region,02,Auckland Region,2017,3564
+06,Hawke's Bay Region,03,Waikato Region,2007,1542
+06,Hawke's Bay Region,03,Waikato Region,2008,2127
+06,Hawke's Bay Region,03,Waikato Region,2009,2019
+06,Hawke's Bay Region,03,Waikato Region,2010,1974
+06,Hawke's Bay Region,03,Waikato Region,2011,1842
+06,Hawke's Bay Region,03,Waikato Region,2012,1749
+06,Hawke's Bay Region,03,Waikato Region,2013,1914
+06,Hawke's Bay Region,03,Waikato Region,2014,2022
+06,Hawke's Bay Region,03,Waikato Region,2015,2097
+06,Hawke's Bay Region,03,Waikato Region,2016,2133
+06,Hawke's Bay Region,03,Waikato Region,2017,2232
+06,Hawke's Bay Region,04,Bay of Plenty Region,2007,1239
+06,Hawke's Bay Region,04,Bay of Plenty Region,2008,1524
+06,Hawke's Bay Region,04,Bay of Plenty Region,2009,1599
+06,Hawke's Bay Region,04,Bay of Plenty Region,2010,1413
+06,Hawke's Bay Region,04,Bay of Plenty Region,2011,1416
+06,Hawke's Bay Region,04,Bay of Plenty Region,2012,1236
+06,Hawke's Bay Region,04,Bay of Plenty Region,2013,1335
+06,Hawke's Bay Region,04,Bay of Plenty Region,2014,1425
+06,Hawke's Bay Region,04,Bay of Plenty Region,2015,1551
+06,Hawke's Bay Region,04,Bay of Plenty Region,2016,1575
+06,Hawke's Bay Region,04,Bay of Plenty Region,2017,1503
+06,Hawke's Bay Region,05,Gisborne Region,2007,618
+06,Hawke's Bay Region,05,Gisborne Region,2008,741
+06,Hawke's Bay Region,05,Gisborne Region,2009,780
+06,Hawke's Bay Region,05,Gisborne Region,2010,840
+06,Hawke's Bay Region,05,Gisborne Region,2011,843
+06,Hawke's Bay Region,05,Gisborne Region,2012,837
+06,Hawke's Bay Region,05,Gisborne Region,2013,837
+06,Hawke's Bay Region,05,Gisborne Region,2014,936
+06,Hawke's Bay Region,05,Gisborne Region,2015,996
+06,Hawke's Bay Region,05,Gisborne Region,2016,954
+06,Hawke's Bay Region,05,Gisborne Region,2017,984
+06,Hawke's Bay Region,07,Taranaki Region,2007,303
+06,Hawke's Bay Region,07,Taranaki Region,2008,390
+06,Hawke's Bay Region,07,Taranaki Region,2009,348
+06,Hawke's Bay Region,07,Taranaki Region,2010,426
+06,Hawke's Bay Region,07,Taranaki Region,2011,357
+06,Hawke's Bay Region,07,Taranaki Region,2012,318
+06,Hawke's Bay Region,07,Taranaki Region,2013,366
+06,Hawke's Bay Region,07,Taranaki Region,2014,414
+06,Hawke's Bay Region,07,Taranaki Region,2015,411
+06,Hawke's Bay Region,07,Taranaki Region,2016,369
+06,Hawke's Bay Region,07,Taranaki Region,2017,348
+06,Hawke's Bay Region,08,Manawatu-Wanganui Region,2007,1839
+06,Hawke's Bay Region,08,Manawatu-Wanganui Region,2008,2217
+06,Hawke's Bay Region,08,Manawatu-Wanganui Region,2009,2415
+06,Hawke's Bay Region,08,Manawatu-Wanganui Region,2010,2250
+06,Hawke's Bay Region,08,Manawatu-Wanganui Region,2011,2112
+06,Hawke's Bay Region,08,Manawatu-Wanganui Region,2012,2067
+06,Hawke's Bay Region,08,Manawatu-Wanganui Region,2013,1962
+06,Hawke's Bay Region,08,Manawatu-Wanganui Region,2014,2217
+06,Hawke's Bay Region,08,Manawatu-Wanganui Region,2015,2271
+06,Hawke's Bay Region,08,Manawatu-Wanganui Region,2016,2385
+06,Hawke's Bay Region,08,Manawatu-Wanganui Region,2017,2292
+06,Hawke's Bay Region,09,Wellington Region,2007,2520
+06,Hawke's Bay Region,09,Wellington Region,2008,2991
+06,Hawke's Bay Region,09,Wellington Region,2009,3249
+06,Hawke's Bay Region,09,Wellington Region,2010,3045
+06,Hawke's Bay Region,09,Wellington Region,2011,2967
+06,Hawke's Bay Region,09,Wellington Region,2012,2787
+06,Hawke's Bay Region,09,Wellington Region,2013,2745
+06,Hawke's Bay Region,09,Wellington Region,2014,2973
+06,Hawke's Bay Region,09,Wellington Region,2015,3048
+06,Hawke's Bay Region,09,Wellington Region,2016,3165
+06,Hawke's Bay Region,09,Wellington Region,2017,3054
+06,Hawke's Bay Region,12,West Coast Region,2007,30
+06,Hawke's Bay Region,12,West Coast Region,2008,84
+06,Hawke's Bay Region,12,West Coast Region,2009,99
+06,Hawke's Bay Region,12,West Coast Region,2010,60
+06,Hawke's Bay Region,12,West Coast Region,2011,75
+06,Hawke's Bay Region,12,West Coast Region,2012,54
+06,Hawke's Bay Region,12,West Coast Region,2013,75
+06,Hawke's Bay Region,12,West Coast Region,2014,90
+06,Hawke's Bay Region,12,West Coast Region,2015,93
+06,Hawke's Bay Region,12,West Coast Region,2016,54
+06,Hawke's Bay Region,12,West Coast Region,2017,72
+06,Hawke's Bay Region,13,Canterbury Region,2007,714
+06,Hawke's Bay Region,13,Canterbury Region,2008,900
+06,Hawke's Bay Region,13,Canterbury Region,2009,978
+06,Hawke's Bay Region,13,Canterbury Region,2010,843
+06,Hawke's Bay Region,13,Canterbury Region,2011,903
+06,Hawke's Bay Region,13,Canterbury Region,2012,987
+06,Hawke's Bay Region,13,Canterbury Region,2013,1107
+06,Hawke's Bay Region,13,Canterbury Region,2014,1290
+06,Hawke's Bay Region,13,Canterbury Region,2015,1308
+06,Hawke's Bay Region,13,Canterbury Region,2016,1203
+06,Hawke's Bay Region,13,Canterbury Region,2017,1089
+06,Hawke's Bay Region,14,Otago Region,2007,471
+06,Hawke's Bay Region,14,Otago Region,2008,483
+06,Hawke's Bay Region,14,Otago Region,2009,543
+06,Hawke's Bay Region,14,Otago Region,2010,543
+06,Hawke's Bay Region,14,Otago Region,2011,507
+06,Hawke's Bay Region,14,Otago Region,2012,519
+06,Hawke's Bay Region,14,Otago Region,2013,552
+06,Hawke's Bay Region,14,Otago Region,2014,567
+06,Hawke's Bay Region,14,Otago Region,2015,675
+06,Hawke's Bay Region,14,Otago Region,2016,654
+06,Hawke's Bay Region,14,Otago Region,2017,624
+06,Hawke's Bay Region,15,Southland Region,2007,150
+06,Hawke's Bay Region,15,Southland Region,2008,195
+06,Hawke's Bay Region,15,Southland Region,2009,198
+06,Hawke's Bay Region,15,Southland Region,2010,204
+06,Hawke's Bay Region,15,Southland Region,2011,144
+06,Hawke's Bay Region,15,Southland Region,2012,168
+06,Hawke's Bay Region,15,Southland Region,2013,144
+06,Hawke's Bay Region,15,Southland Region,2014,189
+06,Hawke's Bay Region,15,Southland Region,2015,186
+06,Hawke's Bay Region,15,Southland Region,2016,177
+06,Hawke's Bay Region,15,Southland Region,2017,183
+06,Hawke's Bay Region,16,Tasman Region,2007,69
+06,Hawke's Bay Region,16,Tasman Region,2008,84
+06,Hawke's Bay Region,16,Tasman Region,2009,87
+06,Hawke's Bay Region,16,Tasman Region,2010,78
+06,Hawke's Bay Region,16,Tasman Region,2011,81
+06,Hawke's Bay Region,16,Tasman Region,2012,93
+06,Hawke's Bay Region,16,Tasman Region,2013,102
+06,Hawke's Bay Region,16,Tasman Region,2014,120
+06,Hawke's Bay Region,16,Tasman Region,2015,126
+06,Hawke's Bay Region,16,Tasman Region,2016,102
+06,Hawke's Bay Region,16,Tasman Region,2017,123
+06,Hawke's Bay Region,17,Nelson Region,2007,96
+06,Hawke's Bay Region,17,Nelson Region,2008,102
+06,Hawke's Bay Region,17,Nelson Region,2009,129
+06,Hawke's Bay Region,17,Nelson Region,2010,99
+06,Hawke's Bay Region,17,Nelson Region,2011,114
+06,Hawke's Bay Region,17,Nelson Region,2012,96
+06,Hawke's Bay Region,17,Nelson Region,2013,84
+06,Hawke's Bay Region,17,Nelson Region,2014,99
+06,Hawke's Bay Region,17,Nelson Region,2015,90
+06,Hawke's Bay Region,17,Nelson Region,2016,108
+06,Hawke's Bay Region,17,Nelson Region,2017,162
+06,Hawke's Bay Region,18,Marlborough Region,2007,195
+06,Hawke's Bay Region,18,Marlborough Region,2008,291
+06,Hawke's Bay Region,18,Marlborough Region,2009,279
+06,Hawke's Bay Region,18,Marlborough Region,2010,213
+06,Hawke's Bay Region,18,Marlborough Region,2011,165
+06,Hawke's Bay Region,18,Marlborough Region,2012,165
+06,Hawke's Bay Region,18,Marlborough Region,2013,165
+06,Hawke's Bay Region,18,Marlborough Region,2014,180
+06,Hawke's Bay Region,18,Marlborough Region,2015,195
+06,Hawke's Bay Region,18,Marlborough Region,2016,183
+06,Hawke's Bay Region,18,Marlborough Region,2017,189
+07,Taranaki Region,01,Northland Region,2007,240
+07,Taranaki Region,01,Northland Region,2008,321
+07,Taranaki Region,01,Northland Region,2009,345
+07,Taranaki Region,01,Northland Region,2010,324
+07,Taranaki Region,01,Northland Region,2011,312
+07,Taranaki Region,01,Northland Region,2012,297
+07,Taranaki Region,01,Northland Region,2013,321
+07,Taranaki Region,01,Northland Region,2014,333
+07,Taranaki Region,01,Northland Region,2015,414
+07,Taranaki Region,01,Northland Region,2016,414
+07,Taranaki Region,01,Northland Region,2017,339
+07,Taranaki Region,02,Auckland Region,2007,1428
+07,Taranaki Region,02,Auckland Region,2008,1704
+07,Taranaki Region,02,Auckland Region,2009,1872
+07,Taranaki Region,02,Auckland Region,2010,1818
+07,Taranaki Region,02,Auckland Region,2011,1785
+07,Taranaki Region,02,Auckland Region,2012,1788
+07,Taranaki Region,02,Auckland Region,2013,1827
+07,Taranaki Region,02,Auckland Region,2014,2019
+07,Taranaki Region,02,Auckland Region,2015,2211
+07,Taranaki Region,02,Auckland Region,2016,2172
+07,Taranaki Region,02,Auckland Region,2017,2121
+07,Taranaki Region,03,Waikato Region,2007,1311
+07,Taranaki Region,03,Waikato Region,2008,1593
+07,Taranaki Region,03,Waikato Region,2009,1473
+07,Taranaki Region,03,Waikato Region,2010,1524
+07,Taranaki Region,03,Waikato Region,2011,1554
+07,Taranaki Region,03,Waikato Region,2012,1509
+07,Taranaki Region,03,Waikato Region,2013,1473
+07,Taranaki Region,03,Waikato Region,2014,1623
+07,Taranaki Region,03,Waikato Region,2015,1764
+07,Taranaki Region,03,Waikato Region,2016,1731
+07,Taranaki Region,03,Waikato Region,2017,1857
+07,Taranaki Region,04,Bay of Plenty Region,2007,555
+07,Taranaki Region,04,Bay of Plenty Region,2008,750
+07,Taranaki Region,04,Bay of Plenty Region,2009,675
+07,Taranaki Region,04,Bay of Plenty Region,2010,720
+07,Taranaki Region,04,Bay of Plenty Region,2011,654
+07,Taranaki Region,04,Bay of Plenty Region,2012,639
+07,Taranaki Region,04,Bay of Plenty Region,2013,594
+07,Taranaki Region,04,Bay of Plenty Region,2014,729
+07,Taranaki Region,04,Bay of Plenty Region,2015,789
+07,Taranaki Region,04,Bay of Plenty Region,2016,849
+07,Taranaki Region,04,Bay of Plenty Region,2017,774
+07,Taranaki Region,05,Gisborne Region,2007,51
+07,Taranaki Region,05,Gisborne Region,2008,69
+07,Taranaki Region,05,Gisborne Region,2009,63
+07,Taranaki Region,05,Gisborne Region,2010,66
+07,Taranaki Region,05,Gisborne Region,2011,57
+07,Taranaki Region,05,Gisborne Region,2012,81
+07,Taranaki Region,05,Gisborne Region,2013,60
+07,Taranaki Region,05,Gisborne Region,2014,54
+07,Taranaki Region,05,Gisborne Region,2015,66
+07,Taranaki Region,05,Gisborne Region,2016,81
+07,Taranaki Region,05,Gisborne Region,2017,102
+07,Taranaki Region,06,Hawke's Bay Region,2007,324
+07,Taranaki Region,06,Hawke's Bay Region,2008,354
+07,Taranaki Region,06,Hawke's Bay Region,2009,348
+07,Taranaki Region,06,Hawke's Bay Region,2010,393
+07,Taranaki Region,06,Hawke's Bay Region,2011,315
+07,Taranaki Region,06,Hawke's Bay Region,2012,330
+07,Taranaki Region,06,Hawke's Bay Region,2013,363
+07,Taranaki Region,06,Hawke's Bay Region,2014,417
+07,Taranaki Region,06,Hawke's Bay Region,2015,420
+07,Taranaki Region,06,Hawke's Bay Region,2016,408
+07,Taranaki Region,06,Hawke's Bay Region,2017,399
+07,Taranaki Region,08,Manawatu-Wanganui Region,2007,1062
+07,Taranaki Region,08,Manawatu-Wanganui Region,2008,1389
+07,Taranaki Region,08,Manawatu-Wanganui Region,2009,1863
+07,Taranaki Region,08,Manawatu-Wanganui Region,2010,1794
+07,Taranaki Region,08,Manawatu-Wanganui Region,2011,1644
+07,Taranaki Region,08,Manawatu-Wanganui Region,2012,1476
+07,Taranaki Region,08,Manawatu-Wanganui Region,2013,1569
+07,Taranaki Region,08,Manawatu-Wanganui Region,2014,1692
+07,Taranaki Region,08,Manawatu-Wanganui Region,2015,1734
+07,Taranaki Region,08,Manawatu-Wanganui Region,2016,1785
+07,Taranaki Region,08,Manawatu-Wanganui Region,2017,1743
+07,Taranaki Region,09,Wellington Region,2007,1377
+07,Taranaki Region,09,Wellington Region,2008,1665
+07,Taranaki Region,09,Wellington Region,2009,1527
+07,Taranaki Region,09,Wellington Region,2010,1554
+07,Taranaki Region,09,Wellington Region,2011,1452
+07,Taranaki Region,09,Wellington Region,2012,1533
+07,Taranaki Region,09,Wellington Region,2013,1524
+07,Taranaki Region,09,Wellington Region,2014,1578
+07,Taranaki Region,09,Wellington Region,2015,1542
+07,Taranaki Region,09,Wellington Region,2016,1638
+07,Taranaki Region,09,Wellington Region,2017,1656
+07,Taranaki Region,12,West Coast Region,2007,42
+07,Taranaki Region,12,West Coast Region,2008,42
+07,Taranaki Region,12,West Coast Region,2009,54
+07,Taranaki Region,12,West Coast Region,2010,48
+07,Taranaki Region,12,West Coast Region,2011,60
+07,Taranaki Region,12,West Coast Region,2012,60
+07,Taranaki Region,12,West Coast Region,2013,51
+07,Taranaki Region,12,West Coast Region,2014,51
+07,Taranaki Region,12,West Coast Region,2015,36
+07,Taranaki Region,12,West Coast Region,2016,48
+07,Taranaki Region,12,West Coast Region,2017,54
+07,Taranaki Region,13,Canterbury Region,2007,435
+07,Taranaki Region,13,Canterbury Region,2008,540
+07,Taranaki Region,13,Canterbury Region,2009,558
+07,Taranaki Region,13,Canterbury Region,2010,501
+07,Taranaki Region,13,Canterbury Region,2011,525
+07,Taranaki Region,13,Canterbury Region,2012,609
+07,Taranaki Region,13,Canterbury Region,2013,615
+07,Taranaki Region,13,Canterbury Region,2014,663
+07,Taranaki Region,13,Canterbury Region,2015,765
+07,Taranaki Region,13,Canterbury Region,2016,705
+07,Taranaki Region,13,Canterbury Region,2017,663
+07,Taranaki Region,14,Otago Region,2007,318
+07,Taranaki Region,14,Otago Region,2008,345
+07,Taranaki Region,14,Otago Region,2009,354
+07,Taranaki Region,14,Otago Region,2010,360
+07,Taranaki Region,14,Otago Region,2011,318
+07,Taranaki Region,14,Otago Region,2012,315
+07,Taranaki Region,14,Otago Region,2013,342
+07,Taranaki Region,14,Otago Region,2014,369
+07,Taranaki Region,14,Otago Region,2015,402
+07,Taranaki Region,14,Otago Region,2016,432
+07,Taranaki Region,14,Otago Region,2017,363
+07,Taranaki Region,15,Southland Region,2007,90
+07,Taranaki Region,15,Southland Region,2008,150
+07,Taranaki Region,15,Southland Region,2009,153
+07,Taranaki Region,15,Southland Region,2010,117
+07,Taranaki Region,15,Southland Region,2011,114
+07,Taranaki Region,15,Southland Region,2012,105
+07,Taranaki Region,15,Southland Region,2013,90
+07,Taranaki Region,15,Southland Region,2014,108
+07,Taranaki Region,15,Southland Region,2015,108
+07,Taranaki Region,15,Southland Region,2016,93
+07,Taranaki Region,15,Southland Region,2017,105
+07,Taranaki Region,16,Tasman Region,2007,72
+07,Taranaki Region,16,Tasman Region,2008,60
+07,Taranaki Region,16,Tasman Region,2009,78
+07,Taranaki Region,16,Tasman Region,2010,81
+07,Taranaki Region,16,Tasman Region,2011,54
+07,Taranaki Region,16,Tasman Region,2012,60
+07,Taranaki Region,16,Tasman Region,2013,78
+07,Taranaki Region,16,Tasman Region,2014,81
+07,Taranaki Region,16,Tasman Region,2015,60
+07,Taranaki Region,16,Tasman Region,2016,66
+07,Taranaki Region,16,Tasman Region,2017,87
+07,Taranaki Region,17,Nelson Region,2007,69
+07,Taranaki Region,17,Nelson Region,2008,63
+07,Taranaki Region,17,Nelson Region,2009,78
+07,Taranaki Region,17,Nelson Region,2010,87
+07,Taranaki Region,17,Nelson Region,2011,78
+07,Taranaki Region,17,Nelson Region,2012,66
+07,Taranaki Region,17,Nelson Region,2013,78
+07,Taranaki Region,17,Nelson Region,2014,84
+07,Taranaki Region,17,Nelson Region,2015,72
+07,Taranaki Region,17,Nelson Region,2016,90
+07,Taranaki Region,17,Nelson Region,2017,72
+07,Taranaki Region,18,Marlborough Region,2007,69
+07,Taranaki Region,18,Marlborough Region,2008,111
+07,Taranaki Region,18,Marlborough Region,2009,81
+07,Taranaki Region,18,Marlborough Region,2010,69
+07,Taranaki Region,18,Marlborough Region,2011,81
+07,Taranaki Region,18,Marlborough Region,2012,72
+07,Taranaki Region,18,Marlborough Region,2013,96
+07,Taranaki Region,18,Marlborough Region,2014,75
+07,Taranaki Region,18,Marlborough Region,2015,72
+07,Taranaki Region,18,Marlborough Region,2016,87
+07,Taranaki Region,18,Marlborough Region,2017,78
+08,Manawatu-Wanganui Region,01,Northland Region,2007,408
+08,Manawatu-Wanganui Region,01,Northland Region,2008,543
+08,Manawatu-Wanganui Region,01,Northland Region,2009,564
+08,Manawatu-Wanganui Region,01,Northland Region,2010,657
+08,Manawatu-Wanganui Region,01,Northland Region,2011,594
+08,Manawatu-Wanganui Region,01,Northland Region,2012,594
+08,Manawatu-Wanganui Region,01,Northland Region,2013,588
+08,Manawatu-Wanganui Region,01,Northland Region,2014,726
+08,Manawatu-Wanganui Region,01,Northland Region,2015,678
+08,Manawatu-Wanganui Region,01,Northland Region,2016,693
+08,Manawatu-Wanganui Region,01,Northland Region,2017,777
+08,Manawatu-Wanganui Region,02,Auckland Region,2007,2532
+08,Manawatu-Wanganui Region,02,Auckland Region,2008,3120
+08,Manawatu-Wanganui Region,02,Auckland Region,2009,3639
+08,Manawatu-Wanganui Region,02,Auckland Region,2010,3594
+08,Manawatu-Wanganui Region,02,Auckland Region,2011,3663
+08,Manawatu-Wanganui Region,02,Auckland Region,2012,3825
+08,Manawatu-Wanganui Region,02,Auckland Region,2013,3540
+08,Manawatu-Wanganui Region,02,Auckland Region,2014,3918
+08,Manawatu-Wanganui Region,02,Auckland Region,2015,4065
+08,Manawatu-Wanganui Region,02,Auckland Region,2016,4122
+08,Manawatu-Wanganui Region,02,Auckland Region,2017,4170
+08,Manawatu-Wanganui Region,03,Waikato Region,2007,2361
+08,Manawatu-Wanganui Region,03,Waikato Region,2008,2937
+08,Manawatu-Wanganui Region,03,Waikato Region,2009,3150
+08,Manawatu-Wanganui Region,03,Waikato Region,2010,3117
+08,Manawatu-Wanganui Region,03,Waikato Region,2011,3051
+08,Manawatu-Wanganui Region,03,Waikato Region,2012,3072
+08,Manawatu-Wanganui Region,03,Waikato Region,2013,2988
+08,Manawatu-Wanganui Region,03,Waikato Region,2014,3375
+08,Manawatu-Wanganui Region,03,Waikato Region,2015,3471
+08,Manawatu-Wanganui Region,03,Waikato Region,2016,3618
+08,Manawatu-Wanganui Region,03,Waikato Region,2017,3522
+08,Manawatu-Wanganui Region,04,Bay of Plenty Region,2007,1392
+08,Manawatu-Wanganui Region,04,Bay of Plenty Region,2008,1671
+08,Manawatu-Wanganui Region,04,Bay of Plenty Region,2009,1815
+08,Manawatu-Wanganui Region,04,Bay of Plenty Region,2010,1824
+08,Manawatu-Wanganui Region,04,Bay of Plenty Region,2011,1776
+08,Manawatu-Wanganui Region,04,Bay of Plenty Region,2012,1872
+08,Manawatu-Wanganui Region,04,Bay of Plenty Region,2013,1704
+08,Manawatu-Wanganui Region,04,Bay of Plenty Region,2014,1956
+08,Manawatu-Wanganui Region,04,Bay of Plenty Region,2015,2034
+08,Manawatu-Wanganui Region,04,Bay of Plenty Region,2016,1965
+08,Manawatu-Wanganui Region,04,Bay of Plenty Region,2017,1941
+08,Manawatu-Wanganui Region,05,Gisborne Region,2007,321
+08,Manawatu-Wanganui Region,05,Gisborne Region,2008,357
+08,Manawatu-Wanganui Region,05,Gisborne Region,2009,381
+08,Manawatu-Wanganui Region,05,Gisborne Region,2010,396
+08,Manawatu-Wanganui Region,05,Gisborne Region,2011,357
+08,Manawatu-Wanganui Region,05,Gisborne Region,2012,411
+08,Manawatu-Wanganui Region,05,Gisborne Region,2013,387
+08,Manawatu-Wanganui Region,05,Gisborne Region,2014,456
+08,Manawatu-Wanganui Region,05,Gisborne Region,2015,435
+08,Manawatu-Wanganui Region,05,Gisborne Region,2016,471
+08,Manawatu-Wanganui Region,05,Gisborne Region,2017,465
+08,Manawatu-Wanganui Region,06,Hawke's Bay Region,2007,1920
+08,Manawatu-Wanganui Region,06,Hawke's Bay Region,2008,2154
+08,Manawatu-Wanganui Region,06,Hawke's Bay Region,2009,2418
+08,Manawatu-Wanganui Region,06,Hawke's Bay Region,2010,2211
+08,Manawatu-Wanganui Region,06,Hawke's Bay Region,2011,2097
+08,Manawatu-Wanganui Region,06,Hawke's Bay Region,2012,2259
+08,Manawatu-Wanganui Region,06,Hawke's Bay Region,2013,2040
+08,Manawatu-Wanganui Region,06,Hawke's Bay Region,2014,2241
+08,Manawatu-Wanganui Region,06,Hawke's Bay Region,2015,2307
+08,Manawatu-Wanganui Region,06,Hawke's Bay Region,2016,2460
+08,Manawatu-Wanganui Region,06,Hawke's Bay Region,2017,2400
+08,Manawatu-Wanganui Region,07,Taranaki Region,2007,978
+08,Manawatu-Wanganui Region,07,Taranaki Region,2008,1173
+08,Manawatu-Wanganui Region,07,Taranaki Region,2009,1404
+08,Manawatu-Wanganui Region,07,Taranaki Region,2010,1521
+08,Manawatu-Wanganui Region,07,Taranaki Region,2011,1575
+08,Manawatu-Wanganui Region,07,Taranaki Region,2012,1590
+08,Manawatu-Wanganui Region,07,Taranaki Region,2013,1509
+08,Manawatu-Wanganui Region,07,Taranaki Region,2014,1752
+08,Manawatu-Wanganui Region,07,Taranaki Region,2015,1698
+08,Manawatu-Wanganui Region,07,Taranaki Region,2016,1650
+08,Manawatu-Wanganui Region,07,Taranaki Region,2017,1731
+08,Manawatu-Wanganui Region,09,Wellington Region,2007,5028
+08,Manawatu-Wanganui Region,09,Wellington Region,2008,5727
+08,Manawatu-Wanganui Region,09,Wellington Region,2009,5859
+08,Manawatu-Wanganui Region,09,Wellington Region,2010,5781
+08,Manawatu-Wanganui Region,09,Wellington Region,2011,5850
+08,Manawatu-Wanganui Region,09,Wellington Region,2012,5892
+08,Manawatu-Wanganui Region,09,Wellington Region,2013,5922
+08,Manawatu-Wanganui Region,09,Wellington Region,2014,6129
+08,Manawatu-Wanganui Region,09,Wellington Region,2015,6429
+08,Manawatu-Wanganui Region,09,Wellington Region,2016,6783
+08,Manawatu-Wanganui Region,09,Wellington Region,2017,6864
+08,Manawatu-Wanganui Region,12,West Coast Region,2007,78
+08,Manawatu-Wanganui Region,12,West Coast Region,2008,93
+08,Manawatu-Wanganui Region,12,West Coast Region,2009,114
+08,Manawatu-Wanganui Region,12,West Coast Region,2010,117
+08,Manawatu-Wanganui Region,12,West Coast Region,2011,99
+08,Manawatu-Wanganui Region,12,West Coast Region,2012,129
+08,Manawatu-Wanganui Region,12,West Coast Region,2013,117
+08,Manawatu-Wanganui Region,12,West Coast Region,2014,126
+08,Manawatu-Wanganui Region,12,West Coast Region,2015,135
+08,Manawatu-Wanganui Region,12,West Coast Region,2016,114
+08,Manawatu-Wanganui Region,12,West Coast Region,2017,126
+08,Manawatu-Wanganui Region,13,Canterbury Region,2007,1125
+08,Manawatu-Wanganui Region,13,Canterbury Region,2008,1302
+08,Manawatu-Wanganui Region,13,Canterbury Region,2009,1470
+08,Manawatu-Wanganui Region,13,Canterbury Region,2010,1452
+08,Manawatu-Wanganui Region,13,Canterbury Region,2011,1491
+08,Manawatu-Wanganui Region,13,Canterbury Region,2012,1593
+08,Manawatu-Wanganui Region,13,Canterbury Region,2013,1812
+08,Manawatu-Wanganui Region,13,Canterbury Region,2014,1821
+08,Manawatu-Wanganui Region,13,Canterbury Region,2015,1806
+08,Manawatu-Wanganui Region,13,Canterbury Region,2016,1869
+08,Manawatu-Wanganui Region,13,Canterbury Region,2017,1578
+08,Manawatu-Wanganui Region,14,Otago Region,2007,582
+08,Manawatu-Wanganui Region,14,Otago Region,2008,636
+08,Manawatu-Wanganui Region,14,Otago Region,2009,615
+08,Manawatu-Wanganui Region,14,Otago Region,2010,663
+08,Manawatu-Wanganui Region,14,Otago Region,2011,663
+08,Manawatu-Wanganui Region,14,Otago Region,2012,657
+08,Manawatu-Wanganui Region,14,Otago Region,2013,726
+08,Manawatu-Wanganui Region,14,Otago Region,2014,855
+08,Manawatu-Wanganui Region,14,Otago Region,2015,795
+08,Manawatu-Wanganui Region,14,Otago Region,2016,807
+08,Manawatu-Wanganui Region,14,Otago Region,2017,768
+08,Manawatu-Wanganui Region,15,Southland Region,2007,186
+08,Manawatu-Wanganui Region,15,Southland Region,2008,237
+08,Manawatu-Wanganui Region,15,Southland Region,2009,237
+08,Manawatu-Wanganui Region,15,Southland Region,2010,249
+08,Manawatu-Wanganui Region,15,Southland Region,2011,255
+08,Manawatu-Wanganui Region,15,Southland Region,2012,282
+08,Manawatu-Wanganui Region,15,Southland Region,2013,252
+08,Manawatu-Wanganui Region,15,Southland Region,2014,288
+08,Manawatu-Wanganui Region,15,Southland Region,2015,270
+08,Manawatu-Wanganui Region,15,Southland Region,2016,300
+08,Manawatu-Wanganui Region,15,Southland Region,2017,285
+08,Manawatu-Wanganui Region,16,Tasman Region,2007,96
+08,Manawatu-Wanganui Region,16,Tasman Region,2008,159
+08,Manawatu-Wanganui Region,16,Tasman Region,2009,156
+08,Manawatu-Wanganui Region,16,Tasman Region,2010,153
+08,Manawatu-Wanganui Region,16,Tasman Region,2011,162
+08,Manawatu-Wanganui Region,16,Tasman Region,2012,135
+08,Manawatu-Wanganui Region,16,Tasman Region,2013,138
+08,Manawatu-Wanganui Region,16,Tasman Region,2014,144
+08,Manawatu-Wanganui Region,16,Tasman Region,2015,168
+08,Manawatu-Wanganui Region,16,Tasman Region,2016,144
+08,Manawatu-Wanganui Region,16,Tasman Region,2017,144
+08,Manawatu-Wanganui Region,17,Nelson Region,2007,153
+08,Manawatu-Wanganui Region,17,Nelson Region,2008,195
+08,Manawatu-Wanganui Region,17,Nelson Region,2009,222
+08,Manawatu-Wanganui Region,17,Nelson Region,2010,222
+08,Manawatu-Wanganui Region,17,Nelson Region,2011,210
+08,Manawatu-Wanganui Region,17,Nelson Region,2012,204
+08,Manawatu-Wanganui Region,17,Nelson Region,2013,195
+08,Manawatu-Wanganui Region,17,Nelson Region,2014,222
+08,Manawatu-Wanganui Region,17,Nelson Region,2015,243
+08,Manawatu-Wanganui Region,17,Nelson Region,2016,237
+08,Manawatu-Wanganui Region,17,Nelson Region,2017,264
+08,Manawatu-Wanganui Region,18,Marlborough Region,2007,210
+08,Manawatu-Wanganui Region,18,Marlborough Region,2008,252
+08,Manawatu-Wanganui Region,18,Marlborough Region,2009,243
+08,Manawatu-Wanganui Region,18,Marlborough Region,2010,246
+08,Manawatu-Wanganui Region,18,Marlborough Region,2011,243
+08,Manawatu-Wanganui Region,18,Marlborough Region,2012,216
+08,Manawatu-Wanganui Region,18,Marlborough Region,2013,306
+08,Manawatu-Wanganui Region,18,Marlborough Region,2014,261
+08,Manawatu-Wanganui Region,18,Marlborough Region,2015,321
+08,Manawatu-Wanganui Region,18,Marlborough Region,2016,303
+08,Manawatu-Wanganui Region,18,Marlborough Region,2017,264
+09,Wellington Region,01,Northland Region,2007,672
+09,Wellington Region,01,Northland Region,2008,747
+09,Wellington Region,01,Northland Region,2009,786
+09,Wellington Region,01,Northland Region,2010,891
+09,Wellington Region,01,Northland Region,2011,855
+09,Wellington Region,01,Northland Region,2012,858
+09,Wellington Region,01,Northland Region,2013,762
+09,Wellington Region,01,Northland Region,2014,912
+09,Wellington Region,01,Northland Region,2015,951
+09,Wellington Region,01,Northland Region,2016,1080
+09,Wellington Region,01,Northland Region,2017,1056
+09,Wellington Region,02,Auckland Region,2007,6768
+09,Wellington Region,02,Auckland Region,2008,8001
+09,Wellington Region,02,Auckland Region,2009,8316
+09,Wellington Region,02,Auckland Region,2010,8301
+09,Wellington Region,02,Auckland Region,2011,8580
+09,Wellington Region,02,Auckland Region,2012,8844
+09,Wellington Region,02,Auckland Region,2013,9051
+09,Wellington Region,02,Auckland Region,2014,9807
+09,Wellington Region,02,Auckland Region,2015,10191
+09,Wellington Region,02,Auckland Region,2016,10383
+09,Wellington Region,02,Auckland Region,2017,9975
+09,Wellington Region,03,Waikato Region,2007,2715
+09,Wellington Region,03,Waikato Region,2008,3066
+09,Wellington Region,03,Waikato Region,2009,2868
+09,Wellington Region,03,Waikato Region,2010,3054
+09,Wellington Region,03,Waikato Region,2011,2949
+09,Wellington Region,03,Waikato Region,2012,2967
+09,Wellington Region,03,Waikato Region,2013,2883
+09,Wellington Region,03,Waikato Region,2014,3123
+09,Wellington Region,03,Waikato Region,2015,3189
+09,Wellington Region,03,Waikato Region,2016,3378
+09,Wellington Region,03,Waikato Region,2017,3285
+09,Wellington Region,04,Bay of Plenty Region,2007,2160
+09,Wellington Region,04,Bay of Plenty Region,2008,2685
+09,Wellington Region,04,Bay of Plenty Region,2009,2748
+09,Wellington Region,04,Bay of Plenty Region,2010,2808
+09,Wellington Region,04,Bay of Plenty Region,2011,2601
+09,Wellington Region,04,Bay of Plenty Region,2012,2775
+09,Wellington Region,04,Bay of Plenty Region,2013,2487
+09,Wellington Region,04,Bay of Plenty Region,2014,2937
+09,Wellington Region,04,Bay of Plenty Region,2015,3039
+09,Wellington Region,04,Bay of Plenty Region,2016,3270
+09,Wellington Region,04,Bay of Plenty Region,2017,3027
+09,Wellington Region,05,Gisborne Region,2007,531
+09,Wellington Region,05,Gisborne Region,2008,687
+09,Wellington Region,05,Gisborne Region,2009,675
+09,Wellington Region,05,Gisborne Region,2010,780
+09,Wellington Region,05,Gisborne Region,2011,738
+09,Wellington Region,05,Gisborne Region,2012,708
+09,Wellington Region,05,Gisborne Region,2013,735
+09,Wellington Region,05,Gisborne Region,2014,708
+09,Wellington Region,05,Gisborne Region,2015,735
+09,Wellington Region,05,Gisborne Region,2016,777
+09,Wellington Region,05,Gisborne Region,2017,780
+09,Wellington Region,06,Hawke's Bay Region,2007,2427
+09,Wellington Region,06,Hawke's Bay Region,2008,3072
+09,Wellington Region,06,Hawke's Bay Region,2009,3084
+09,Wellington Region,06,Hawke's Bay Region,2010,3057
+09,Wellington Region,06,Hawke's Bay Region,2011,2793
+09,Wellington Region,06,Hawke's Bay Region,2012,2640
+09,Wellington Region,06,Hawke's Bay Region,2013,2682
+09,Wellington Region,06,Hawke's Bay Region,2014,2985
+09,Wellington Region,06,Hawke's Bay Region,2015,3132
+09,Wellington Region,06,Hawke's Bay Region,2016,3297
+09,Wellington Region,06,Hawke's Bay Region,2017,3090
+09,Wellington Region,07,Taranaki Region,2007,1221
+09,Wellington Region,07,Taranaki Region,2008,1548
+09,Wellington Region,07,Taranaki Region,2009,1455
+09,Wellington Region,07,Taranaki Region,2010,1506
+09,Wellington Region,07,Taranaki Region,2011,1500
+09,Wellington Region,07,Taranaki Region,2012,1497
+09,Wellington Region,07,Taranaki Region,2013,1383
+09,Wellington Region,07,Taranaki Region,2014,1539
+09,Wellington Region,07,Taranaki Region,2015,1533
+09,Wellington Region,07,Taranaki Region,2016,1503
+09,Wellington Region,07,Taranaki Region,2017,1557
+09,Wellington Region,08,Manawatu-Wanganui Region,2007,5196
+09,Wellington Region,08,Manawatu-Wanganui Region,2008,5964
+09,Wellington Region,08,Manawatu-Wanganui Region,2009,6480
+09,Wellington Region,08,Manawatu-Wanganui Region,2010,6246
+09,Wellington Region,08,Manawatu-Wanganui Region,2011,6123
+09,Wellington Region,08,Manawatu-Wanganui Region,2012,6093
+09,Wellington Region,08,Manawatu-Wanganui Region,2013,5997
+09,Wellington Region,08,Manawatu-Wanganui Region,2014,6306
+09,Wellington Region,08,Manawatu-Wanganui Region,2015,6825
+09,Wellington Region,08,Manawatu-Wanganui Region,2016,7137
+09,Wellington Region,08,Manawatu-Wanganui Region,2017,7419
+09,Wellington Region,12,West Coast Region,2007,126
+09,Wellington Region,12,West Coast Region,2008,144
+09,Wellington Region,12,West Coast Region,2009,186
+09,Wellington Region,12,West Coast Region,2010,183
+09,Wellington Region,12,West Coast Region,2011,186
+09,Wellington Region,12,West Coast Region,2012,210
+09,Wellington Region,12,West Coast Region,2013,192
+09,Wellington Region,12,West Coast Region,2014,234
+09,Wellington Region,12,West Coast Region,2015,225
+09,Wellington Region,12,West Coast Region,2016,180
+09,Wellington Region,12,West Coast Region,2017,201
+09,Wellington Region,13,Canterbury Region,2007,2895
+09,Wellington Region,13,Canterbury Region,2008,3486
+09,Wellington Region,13,Canterbury Region,2009,3567
+09,Wellington Region,13,Canterbury Region,2010,3375
+09,Wellington Region,13,Canterbury Region,2011,3468
+09,Wellington Region,13,Canterbury Region,2012,3870
+09,Wellington Region,13,Canterbury Region,2013,4380
+09,Wellington Region,13,Canterbury Region,2014,4365
+09,Wellington Region,13,Canterbury Region,2015,4506
+09,Wellington Region,13,Canterbury Region,2016,4500
+09,Wellington Region,13,Canterbury Region,2017,4338
+09,Wellington Region,14,Otago Region,2007,1836
+09,Wellington Region,14,Otago Region,2008,2160
+09,Wellington Region,14,Otago Region,2009,2088
+09,Wellington Region,14,Otago Region,2010,2055
+09,Wellington Region,14,Otago Region,2011,2325
+09,Wellington Region,14,Otago Region,2012,2241
+09,Wellington Region,14,Otago Region,2013,2343
+09,Wellington Region,14,Otago Region,2014,2682
+09,Wellington Region,14,Otago Region,2015,2724
+09,Wellington Region,14,Otago Region,2016,2697
+09,Wellington Region,14,Otago Region,2017,2520
+09,Wellington Region,15,Southland Region,2007,291
+09,Wellington Region,15,Southland Region,2008,366
+09,Wellington Region,15,Southland Region,2009,372
+09,Wellington Region,15,Southland Region,2010,360
+09,Wellington Region,15,Southland Region,2011,339
+09,Wellington Region,15,Southland Region,2012,342
+09,Wellington Region,15,Southland Region,2013,333
+09,Wellington Region,15,Southland Region,2014,432
+09,Wellington Region,15,Southland Region,2015,444
+09,Wellington Region,15,Southland Region,2016,417
+09,Wellington Region,15,Southland Region,2017,432
+09,Wellington Region,16,Tasman Region,2007,378
+09,Wellington Region,16,Tasman Region,2008,561
+09,Wellington Region,16,Tasman Region,2009,519
+09,Wellington Region,16,Tasman Region,2010,573
+09,Wellington Region,16,Tasman Region,2011,534
+09,Wellington Region,16,Tasman Region,2012,600
+09,Wellington Region,16,Tasman Region,2013,645
+09,Wellington Region,16,Tasman Region,2014,675
+09,Wellington Region,16,Tasman Region,2015,660
+09,Wellington Region,16,Tasman Region,2016,696
+09,Wellington Region,16,Tasman Region,2017,690
+09,Wellington Region,17,Nelson Region,2007,570
+09,Wellington Region,17,Nelson Region,2008,738
+09,Wellington Region,17,Nelson Region,2009,828
+09,Wellington Region,17,Nelson Region,2010,726
+09,Wellington Region,17,Nelson Region,2011,702
+09,Wellington Region,17,Nelson Region,2012,726
+09,Wellington Region,17,Nelson Region,2013,744
+09,Wellington Region,17,Nelson Region,2014,807
+09,Wellington Region,17,Nelson Region,2015,900
+09,Wellington Region,17,Nelson Region,2016,831
+09,Wellington Region,17,Nelson Region,2017,831
+09,Wellington Region,18,Marlborough Region,2007,480
+09,Wellington Region,18,Marlborough Region,2008,633
+09,Wellington Region,18,Marlborough Region,2009,621
+09,Wellington Region,18,Marlborough Region,2010,549
+09,Wellington Region,18,Marlborough Region,2011,594
+09,Wellington Region,18,Marlborough Region,2012,705
+09,Wellington Region,18,Marlborough Region,2013,705
+09,Wellington Region,18,Marlborough Region,2014,699
+09,Wellington Region,18,Marlborough Region,2015,675
+09,Wellington Region,18,Marlborough Region,2016,738
+09,Wellington Region,18,Marlborough Region,2017,651
+12,West Coast Region,01,Northland Region,2007,42
+12,West Coast Region,01,Northland Region,2008,36
+12,West Coast Region,01,Northland Region,2009,30
+12,West Coast Region,01,Northland Region,2010,51
+12,West Coast Region,01,Northland Region,2011,57
+12,West Coast Region,01,Northland Region,2012,51
+12,West Coast Region,01,Northland Region,2013,63
+12,West Coast Region,01,Northland Region,2014,66
+12,West Coast Region,01,Northland Region,2015,72
+12,West Coast Region,01,Northland Region,2016,66
+12,West Coast Region,01,Northland Region,2017,75
+12,West Coast Region,02,Auckland Region,2007,147
+12,West Coast Region,02,Auckland Region,2008,159
+12,West Coast Region,02,Auckland Region,2009,258
+12,West Coast Region,02,Auckland Region,2010,225
+12,West Coast Region,02,Auckland Region,2011,210
+12,West Coast Region,02,Auckland Region,2012,231
+12,West Coast Region,02,Auckland Region,2013,240
+12,West Coast Region,02,Auckland Region,2014,234
+12,West Coast Region,02,Auckland Region,2015,303
+12,West Coast Region,02,Auckland Region,2016,234
+12,West Coast Region,02,Auckland Region,2017,234
+12,West Coast Region,03,Waikato Region,2007,99
+12,West Coast Region,03,Waikato Region,2008,165
+12,West Coast Region,03,Waikato Region,2009,144
+12,West Coast Region,03,Waikato Region,2010,153
+12,West Coast Region,03,Waikato Region,2011,147
+12,West Coast Region,03,Waikato Region,2012,201
+12,West Coast Region,03,Waikato Region,2013,180
+12,West Coast Region,03,Waikato Region,2014,219
+12,West Coast Region,03,Waikato Region,2015,219
+12,West Coast Region,03,Waikato Region,2016,216
+12,West Coast Region,03,Waikato Region,2017,189
+12,West Coast Region,04,Bay of Plenty Region,2007,99
+12,West Coast Region,04,Bay of Plenty Region,2008,93
+12,West Coast Region,04,Bay of Plenty Region,2009,123
+12,West Coast Region,04,Bay of Plenty Region,2010,111
+12,West Coast Region,04,Bay of Plenty Region,2011,120
+12,West Coast Region,04,Bay of Plenty Region,2012,117
+12,West Coast Region,04,Bay of Plenty Region,2013,99
+12,West Coast Region,04,Bay of Plenty Region,2014,126
+12,West Coast Region,04,Bay of Plenty Region,2015,117
+12,West Coast Region,04,Bay of Plenty Region,2016,138
+12,West Coast Region,04,Bay of Plenty Region,2017,162
+12,West Coast Region,05,Gisborne Region,2007,12
+12,West Coast Region,05,Gisborne Region,2008,6
+12,West Coast Region,05,Gisborne Region,2009,18
+12,West Coast Region,05,Gisborne Region,2010,12
+12,West Coast Region,05,Gisborne Region,2011,12
+12,West Coast Region,05,Gisborne Region,2012,18
+12,West Coast Region,05,Gisborne Region,2013,12
+12,West Coast Region,05,Gisborne Region,2014,15
+12,West Coast Region,05,Gisborne Region,2015,24
+12,West Coast Region,05,Gisborne Region,2016,18
+12,West Coast Region,05,Gisborne Region,2017,21
+12,West Coast Region,06,Hawke's Bay Region,2007,36
+12,West Coast Region,06,Hawke's Bay Region,2008,75
+12,West Coast Region,06,Hawke's Bay Region,2009,69
+12,West Coast Region,06,Hawke's Bay Region,2010,69
+12,West Coast Region,06,Hawke's Bay Region,2011,69
+12,West Coast Region,06,Hawke's Bay Region,2012,78
+12,West Coast Region,06,Hawke's Bay Region,2013,66
+12,West Coast Region,06,Hawke's Bay Region,2014,66
+12,West Coast Region,06,Hawke's Bay Region,2015,81
+12,West Coast Region,06,Hawke's Bay Region,2016,69
+12,West Coast Region,06,Hawke's Bay Region,2017,69
+12,West Coast Region,07,Taranaki Region,2007,33
+12,West Coast Region,07,Taranaki Region,2008,36
+12,West Coast Region,07,Taranaki Region,2009,48
+12,West Coast Region,07,Taranaki Region,2010,45
+12,West Coast Region,07,Taranaki Region,2011,57
+12,West Coast Region,07,Taranaki Region,2012,51
+12,West Coast Region,07,Taranaki Region,2013,51
+12,West Coast Region,07,Taranaki Region,2014,51
+12,West Coast Region,07,Taranaki Region,2015,48
+12,West Coast Region,07,Taranaki Region,2016,45
+12,West Coast Region,07,Taranaki Region,2017,63
+12,West Coast Region,08,Manawatu-Wanganui Region,2007,90
+12,West Coast Region,08,Manawatu-Wanganui Region,2008,84
+12,West Coast Region,08,Manawatu-Wanganui Region,2009,108
+12,West Coast Region,08,Manawatu-Wanganui Region,2010,96
+12,West Coast Region,08,Manawatu-Wanganui Region,2011,102
+12,West Coast Region,08,Manawatu-Wanganui Region,2012,120
+12,West Coast Region,08,Manawatu-Wanganui Region,2013,81
+12,West Coast Region,08,Manawatu-Wanganui Region,2014,120
+12,West Coast Region,08,Manawatu-Wanganui Region,2015,132
+12,West Coast Region,08,Manawatu-Wanganui Region,2016,135
+12,West Coast Region,08,Manawatu-Wanganui Region,2017,135
+12,West Coast Region,09,Wellington Region,2007,135
+12,West Coast Region,09,Wellington Region,2008,168
+12,West Coast Region,09,Wellington Region,2009,153
+12,West Coast Region,09,Wellington Region,2010,174
+12,West Coast Region,09,Wellington Region,2011,162
+12,West Coast Region,09,Wellington Region,2012,183
+12,West Coast Region,09,Wellington Region,2013,210
+12,West Coast Region,09,Wellington Region,2014,231
+12,West Coast Region,09,Wellington Region,2015,225
+12,West Coast Region,09,Wellington Region,2016,204
+12,West Coast Region,09,Wellington Region,2017,189
+12,West Coast Region,13,Canterbury Region,2007,1344
+12,West Coast Region,13,Canterbury Region,2008,1572
+12,West Coast Region,13,Canterbury Region,2009,1719
+12,West Coast Region,13,Canterbury Region,2010,1620
+12,West Coast Region,13,Canterbury Region,2011,1674
+12,West Coast Region,13,Canterbury Region,2012,1749
+12,West Coast Region,13,Canterbury Region,2013,1773
+12,West Coast Region,13,Canterbury Region,2014,1767
+12,West Coast Region,13,Canterbury Region,2015,2049
+12,West Coast Region,13,Canterbury Region,2016,2034
+12,West Coast Region,13,Canterbury Region,2017,1740
+12,West Coast Region,14,Otago Region,2007,180
+12,West Coast Region,14,Otago Region,2008,228
+12,West Coast Region,14,Otago Region,2009,276
+12,West Coast Region,14,Otago Region,2010,246
+12,West Coast Region,14,Otago Region,2011,276
+12,West Coast Region,14,Otago Region,2012,303
+12,West Coast Region,14,Otago Region,2013,315
+12,West Coast Region,14,Otago Region,2014,327
+12,West Coast Region,14,Otago Region,2015,348
+12,West Coast Region,14,Otago Region,2016,408
+12,West Coast Region,14,Otago Region,2017,369
+12,West Coast Region,15,Southland Region,2007,78
+12,West Coast Region,15,Southland Region,2008,120
+12,West Coast Region,15,Southland Region,2009,123
+12,West Coast Region,15,Southland Region,2010,132
+12,West Coast Region,15,Southland Region,2011,120
+12,West Coast Region,15,Southland Region,2012,159
+12,West Coast Region,15,Southland Region,2013,141
+12,West Coast Region,15,Southland Region,2014,129
+12,West Coast Region,15,Southland Region,2015,150
+12,West Coast Region,15,Southland Region,2016,183
+12,West Coast Region,15,Southland Region,2017,141
+12,West Coast Region,16,Tasman Region,2007,192
+12,West Coast Region,16,Tasman Region,2008,228
+12,West Coast Region,16,Tasman Region,2009,249
+12,West Coast Region,16,Tasman Region,2010,273
+12,West Coast Region,16,Tasman Region,2011,237
+12,West Coast Region,16,Tasman Region,2012,294
+12,West Coast Region,16,Tasman Region,2013,288
+12,West Coast Region,16,Tasman Region,2014,342
+12,West Coast Region,16,Tasman Region,2015,339
+12,West Coast Region,16,Tasman Region,2016,366
+12,West Coast Region,16,Tasman Region,2017,336
+12,West Coast Region,17,Nelson Region,2007,240
+12,West Coast Region,17,Nelson Region,2008,249
+12,West Coast Region,17,Nelson Region,2009,285
+12,West Coast Region,17,Nelson Region,2010,279
+12,West Coast Region,17,Nelson Region,2011,306
+12,West Coast Region,17,Nelson Region,2012,303
+12,West Coast Region,17,Nelson Region,2013,348
+12,West Coast Region,17,Nelson Region,2014,375
+12,West Coast Region,17,Nelson Region,2015,345
+12,West Coast Region,17,Nelson Region,2016,339
+12,West Coast Region,17,Nelson Region,2017,315
+12,West Coast Region,18,Marlborough Region,2007,141
+12,West Coast Region,18,Marlborough Region,2008,153
+12,West Coast Region,18,Marlborough Region,2009,141
+12,West Coast Region,18,Marlborough Region,2010,159
+12,West Coast Region,18,Marlborough Region,2011,141
+12,West Coast Region,18,Marlborough Region,2012,162
+12,West Coast Region,18,Marlborough Region,2013,153
+12,West Coast Region,18,Marlborough Region,2014,171
+12,West Coast Region,18,Marlborough Region,2015,195
+12,West Coast Region,18,Marlborough Region,2016,210
+12,West Coast Region,18,Marlborough Region,2017,180
+13,Canterbury Region,01,Northland Region,2007,495
+13,Canterbury Region,01,Northland Region,2008,567
+13,Canterbury Region,01,Northland Region,2009,624
+13,Canterbury Region,01,Northland Region,2010,681
+13,Canterbury Region,01,Northland Region,2011,849
+13,Canterbury Region,01,Northland Region,2012,777
+13,Canterbury Region,01,Northland Region,2013,756
+13,Canterbury Region,01,Northland Region,2014,870
+13,Canterbury Region,01,Northland Region,2015,939
+13,Canterbury Region,01,Northland Region,2016,903
+13,Canterbury Region,01,Northland Region,2017,876
+13,Canterbury Region,02,Auckland Region,2007,4188
+13,Canterbury Region,02,Auckland Region,2008,5445
+13,Canterbury Region,02,Auckland Region,2009,5955
+13,Canterbury Region,02,Auckland Region,2010,5535
+13,Canterbury Region,02,Auckland Region,2011,8136
+13,Canterbury Region,02,Auckland Region,2012,8238
+13,Canterbury Region,02,Auckland Region,2013,6753
+13,Canterbury Region,02,Auckland Region,2014,7200
+13,Canterbury Region,02,Auckland Region,2015,7353
+13,Canterbury Region,02,Auckland Region,2016,7374
+13,Canterbury Region,02,Auckland Region,2017,7539
+13,Canterbury Region,03,Waikato Region,2007,1272
+13,Canterbury Region,03,Waikato Region,2008,1635
+13,Canterbury Region,03,Waikato Region,2009,1890
+13,Canterbury Region,03,Waikato Region,2010,1779
+13,Canterbury Region,03,Waikato Region,2011,2616
+13,Canterbury Region,03,Waikato Region,2012,2484
+13,Canterbury Region,03,Waikato Region,2013,2160
+13,Canterbury Region,03,Waikato Region,2014,2238
+13,Canterbury Region,03,Waikato Region,2015,2556
+13,Canterbury Region,03,Waikato Region,2016,2595
+13,Canterbury Region,03,Waikato Region,2017,2535
+13,Canterbury Region,04,Bay of Plenty Region,2007,1041
+13,Canterbury Region,04,Bay of Plenty Region,2008,1107
+13,Canterbury Region,04,Bay of Plenty Region,2009,1497
+13,Canterbury Region,04,Bay of Plenty Region,2010,1356
+13,Canterbury Region,04,Bay of Plenty Region,2011,1836
+13,Canterbury Region,04,Bay of Plenty Region,2012,1851
+13,Canterbury Region,04,Bay of Plenty Region,2013,1680
+13,Canterbury Region,04,Bay of Plenty Region,2014,1851
+13,Canterbury Region,04,Bay of Plenty Region,2015,2118
+13,Canterbury Region,04,Bay of Plenty Region,2016,2193
+13,Canterbury Region,04,Bay of Plenty Region,2017,2034
+13,Canterbury Region,05,Gisborne Region,2007,189
+13,Canterbury Region,05,Gisborne Region,2008,237
+13,Canterbury Region,05,Gisborne Region,2009,207
+13,Canterbury Region,05,Gisborne Region,2010,240
+13,Canterbury Region,05,Gisborne Region,2011,285
+13,Canterbury Region,05,Gisborne Region,2012,237
+13,Canterbury Region,05,Gisborne Region,2013,243
+13,Canterbury Region,05,Gisborne Region,2014,270
+13,Canterbury Region,05,Gisborne Region,2015,300
+13,Canterbury Region,05,Gisborne Region,2016,288
+13,Canterbury Region,05,Gisborne Region,2017,276
+13,Canterbury Region,06,Hawke's Bay Region,2007,576
+13,Canterbury Region,06,Hawke's Bay Region,2008,813
+13,Canterbury Region,06,Hawke's Bay Region,2009,882
+13,Canterbury Region,06,Hawke's Bay Region,2010,807
+13,Canterbury Region,06,Hawke's Bay Region,2011,918
+13,Canterbury Region,06,Hawke's Bay Region,2012,852
+13,Canterbury Region,06,Hawke's Bay Region,2013,882
+13,Canterbury Region,06,Hawke's Bay Region,2014,930
+13,Canterbury Region,06,Hawke's Bay Region,2015,1098
+13,Canterbury Region,06,Hawke's Bay Region,2016,1149
+13,Canterbury Region,06,Hawke's Bay Region,2017,1074
+13,Canterbury Region,07,Taranaki Region,2007,360
+13,Canterbury Region,07,Taranaki Region,2008,507
+13,Canterbury Region,07,Taranaki Region,2009,540
+13,Canterbury Region,07,Taranaki Region,2010,519
+13,Canterbury Region,07,Taranaki Region,2011,600
+13,Canterbury Region,07,Taranaki Region,2012,654
+13,Canterbury Region,07,Taranaki Region,2013,561
+13,Canterbury Region,07,Taranaki Region,2014,606
+13,Canterbury Region,07,Taranaki Region,2015,705
+13,Canterbury Region,07,Taranaki Region,2016,633
+13,Canterbury Region,07,Taranaki Region,2017,630
+13,Canterbury Region,08,Manawatu-Wanganui Region,2007,1002
+13,Canterbury Region,08,Manawatu-Wanganui Region,2008,1191
+13,Canterbury Region,08,Manawatu-Wanganui Region,2009,1410
+13,Canterbury Region,08,Manawatu-Wanganui Region,2010,1302
+13,Canterbury Region,08,Manawatu-Wanganui Region,2011,1659
+13,Canterbury Region,08,Manawatu-Wanganui Region,2012,1554
+13,Canterbury Region,08,Manawatu-Wanganui Region,2013,1383
+13,Canterbury Region,08,Manawatu-Wanganui Region,2014,1494
+13,Canterbury Region,08,Manawatu-Wanganui Region,2015,1689
+13,Canterbury Region,08,Manawatu-Wanganui Region,2016,1647
+13,Canterbury Region,08,Manawatu-Wanganui Region,2017,1653
+13,Canterbury Region,09,Wellington Region,2007,3078
+13,Canterbury Region,09,Wellington Region,2008,3648
+13,Canterbury Region,09,Wellington Region,2009,3696
+13,Canterbury Region,09,Wellington Region,2010,3564
+13,Canterbury Region,09,Wellington Region,2011,4365
+13,Canterbury Region,09,Wellington Region,2012,4206
+13,Canterbury Region,09,Wellington Region,2013,3978
+13,Canterbury Region,09,Wellington Region,2014,4071
+13,Canterbury Region,09,Wellington Region,2015,4308
+13,Canterbury Region,09,Wellington Region,2016,4620
+13,Canterbury Region,09,Wellington Region,2017,4611
+13,Canterbury Region,12,West Coast Region,2007,1239
+13,Canterbury Region,12,West Coast Region,2008,1539
+13,Canterbury Region,12,West Coast Region,2009,1689
+13,Canterbury Region,12,West Coast Region,2010,1656
+13,Canterbury Region,12,West Coast Region,2011,1884
+13,Canterbury Region,12,West Coast Region,2012,1827
+13,Canterbury Region,12,West Coast Region,2013,1503
+13,Canterbury Region,12,West Coast Region,2014,1629
+13,Canterbury Region,12,West Coast Region,2015,1767
+13,Canterbury Region,12,West Coast Region,2016,1635
+13,Canterbury Region,12,West Coast Region,2017,1602
+13,Canterbury Region,14,Otago Region,2007,4401
+13,Canterbury Region,14,Otago Region,2008,5163
+13,Canterbury Region,14,Otago Region,2009,5448
+13,Canterbury Region,14,Otago Region,2010,5319
+13,Canterbury Region,14,Otago Region,2011,6864
+13,Canterbury Region,14,Otago Region,2012,6783
+13,Canterbury Region,14,Otago Region,2013,6510
+13,Canterbury Region,14,Otago Region,2014,7287
+13,Canterbury Region,14,Otago Region,2015,7374
+13,Canterbury Region,14,Otago Region,2016,7272
+13,Canterbury Region,14,Otago Region,2017,6852
+13,Canterbury Region,15,Southland Region,2007,1404
+13,Canterbury Region,15,Southland Region,2008,1773
+13,Canterbury Region,15,Southland Region,2009,2007
+13,Canterbury Region,15,Southland Region,2010,2016
+13,Canterbury Region,15,Southland Region,2011,2457
+13,Canterbury Region,15,Southland Region,2012,2100
+13,Canterbury Region,15,Southland Region,2013,1881
+13,Canterbury Region,15,Southland Region,2014,2007
+13,Canterbury Region,15,Southland Region,2015,2151
+13,Canterbury Region,15,Southland Region,2016,2064
+13,Canterbury Region,15,Southland Region,2017,1932
+13,Canterbury Region,16,Tasman Region,2007,819
+13,Canterbury Region,16,Tasman Region,2008,1071
+13,Canterbury Region,16,Tasman Region,2009,1224
+13,Canterbury Region,16,Tasman Region,2010,1209
+13,Canterbury Region,16,Tasman Region,2011,1527
+13,Canterbury Region,16,Tasman Region,2012,1494
+13,Canterbury Region,16,Tasman Region,2013,1356
+13,Canterbury Region,16,Tasman Region,2014,1416
+13,Canterbury Region,16,Tasman Region,2015,1497
+13,Canterbury Region,16,Tasman Region,2016,1566
+13,Canterbury Region,16,Tasman Region,2017,1413
+13,Canterbury Region,17,Nelson Region,2007,993
+13,Canterbury Region,17,Nelson Region,2008,1365
+13,Canterbury Region,17,Nelson Region,2009,1431
+13,Canterbury Region,17,Nelson Region,2010,1272
+13,Canterbury Region,17,Nelson Region,2011,1695
+13,Canterbury Region,17,Nelson Region,2012,1734
+13,Canterbury Region,17,Nelson Region,2013,1428
+13,Canterbury Region,17,Nelson Region,2014,1473
+13,Canterbury Region,17,Nelson Region,2015,1581
+13,Canterbury Region,17,Nelson Region,2016,1512
+13,Canterbury Region,17,Nelson Region,2017,1233
+13,Canterbury Region,18,Marlborough Region,2007,1338
+13,Canterbury Region,18,Marlborough Region,2008,1530
+13,Canterbury Region,18,Marlborough Region,2009,1512
+13,Canterbury Region,18,Marlborough Region,2010,1461
+13,Canterbury Region,18,Marlborough Region,2011,1842
+13,Canterbury Region,18,Marlborough Region,2012,1983
+13,Canterbury Region,18,Marlborough Region,2013,1707
+13,Canterbury Region,18,Marlborough Region,2014,1647
+13,Canterbury Region,18,Marlborough Region,2015,1737
+13,Canterbury Region,18,Marlborough Region,2016,1551
+13,Canterbury Region,18,Marlborough Region,2017,1539
+14,Otago Region,01,Northland Region,2007,285
+14,Otago Region,01,Northland Region,2008,441
+14,Otago Region,01,Northland Region,2009,390
+14,Otago Region,01,Northland Region,2010,432
+14,Otago Region,01,Northland Region,2011,441
+14,Otago Region,01,Northland Region,2012,393
+14,Otago Region,01,Northland Region,2013,432
+14,Otago Region,01,Northland Region,2014,510
+14,Otago Region,01,Northland Region,2015,498
+14,Otago Region,01,Northland Region,2016,528
+14,Otago Region,01,Northland Region,2017,549
+14,Otago Region,02,Auckland Region,2007,2526
+14,Otago Region,02,Auckland Region,2008,3498
+14,Otago Region,02,Auckland Region,2009,3699
+14,Otago Region,02,Auckland Region,2010,3546
+14,Otago Region,02,Auckland Region,2011,3444
+14,Otago Region,02,Auckland Region,2012,3735
+14,Otago Region,02,Auckland Region,2013,3960
+14,Otago Region,02,Auckland Region,2014,4275
+14,Otago Region,02,Auckland Region,2015,4932
+14,Otago Region,02,Auckland Region,2016,4743
+14,Otago Region,02,Auckland Region,2017,4557
+14,Otago Region,03,Waikato Region,2007,783
+14,Otago Region,03,Waikato Region,2008,963
+14,Otago Region,03,Waikato Region,2009,993
+14,Otago Region,03,Waikato Region,2010,990
+14,Otago Region,03,Waikato Region,2011,978
+14,Otago Region,03,Waikato Region,2012,1032
+14,Otago Region,03,Waikato Region,2013,993
+14,Otago Region,03,Waikato Region,2014,1140
+14,Otago Region,03,Waikato Region,2015,1341
+14,Otago Region,03,Waikato Region,2016,1269
+14,Otago Region,03,Waikato Region,2017,1221
+14,Otago Region,04,Bay of Plenty Region,2007,573
+14,Otago Region,04,Bay of Plenty Region,2008,771
+14,Otago Region,04,Bay of Plenty Region,2009,831
+14,Otago Region,04,Bay of Plenty Region,2010,915
+14,Otago Region,04,Bay of Plenty Region,2011,864
+14,Otago Region,04,Bay of Plenty Region,2012,858
+14,Otago Region,04,Bay of Plenty Region,2013,891
+14,Otago Region,04,Bay of Plenty Region,2014,882
+14,Otago Region,04,Bay of Plenty Region,2015,1041
+14,Otago Region,04,Bay of Plenty Region,2016,1056
+14,Otago Region,04,Bay of Plenty Region,2017,1038
+14,Otago Region,05,Gisborne Region,2007,111
+14,Otago Region,05,Gisborne Region,2008,147
+14,Otago Region,05,Gisborne Region,2009,162
+14,Otago Region,05,Gisborne Region,2010,153
+14,Otago Region,05,Gisborne Region,2011,162
+14,Otago Region,05,Gisborne Region,2012,147
+14,Otago Region,05,Gisborne Region,2013,174
+14,Otago Region,05,Gisborne Region,2014,150
+14,Otago Region,05,Gisborne Region,2015,177
+14,Otago Region,05,Gisborne Region,2016,144
+14,Otago Region,05,Gisborne Region,2017,162
+14,Otago Region,06,Hawke's Bay Region,2007,342
+14,Otago Region,06,Hawke's Bay Region,2008,477
+14,Otago Region,06,Hawke's Bay Region,2009,504
+14,Otago Region,06,Hawke's Bay Region,2010,480
+14,Otago Region,06,Hawke's Bay Region,2011,471
+14,Otago Region,06,Hawke's Bay Region,2012,456
+14,Otago Region,06,Hawke's Bay Region,2013,486
+14,Otago Region,06,Hawke's Bay Region,2014,519
+14,Otago Region,06,Hawke's Bay Region,2015,588
+14,Otago Region,06,Hawke's Bay Region,2016,603
+14,Otago Region,06,Hawke's Bay Region,2017,648
+14,Otago Region,07,Taranaki Region,2007,270
+14,Otago Region,07,Taranaki Region,2008,339
+14,Otago Region,07,Taranaki Region,2009,324
+14,Otago Region,07,Taranaki Region,2010,330
+14,Otago Region,07,Taranaki Region,2011,312
+14,Otago Region,07,Taranaki Region,2012,306
+14,Otago Region,07,Taranaki Region,2013,306
+14,Otago Region,07,Taranaki Region,2014,336
+14,Otago Region,07,Taranaki Region,2015,354
+14,Otago Region,07,Taranaki Region,2016,357
+14,Otago Region,07,Taranaki Region,2017,339
+14,Otago Region,08,Manawatu-Wanganui Region,2007,453
+14,Otago Region,08,Manawatu-Wanganui Region,2008,585
+14,Otago Region,08,Manawatu-Wanganui Region,2009,681
+14,Otago Region,08,Manawatu-Wanganui Region,2010,642
+14,Otago Region,08,Manawatu-Wanganui Region,2011,657
+14,Otago Region,08,Manawatu-Wanganui Region,2012,621
+14,Otago Region,08,Manawatu-Wanganui Region,2013,642
+14,Otago Region,08,Manawatu-Wanganui Region,2014,717
+14,Otago Region,08,Manawatu-Wanganui Region,2015,780
+14,Otago Region,08,Manawatu-Wanganui Region,2016,765
+14,Otago Region,08,Manawatu-Wanganui Region,2017,714
+14,Otago Region,09,Wellington Region,2007,1995
+14,Otago Region,09,Wellington Region,2008,2499
+14,Otago Region,09,Wellington Region,2009,2307
+14,Otago Region,09,Wellington Region,2010,2361
+14,Otago Region,09,Wellington Region,2011,2322
+14,Otago Region,09,Wellington Region,2012,2328
+14,Otago Region,09,Wellington Region,2013,2385
+14,Otago Region,09,Wellington Region,2014,2601
+14,Otago Region,09,Wellington Region,2015,2751
+14,Otago Region,09,Wellington Region,2016,2757
+14,Otago Region,09,Wellington Region,2017,2856
+14,Otago Region,12,West Coast Region,2007,216
+14,Otago Region,12,West Coast Region,2008,279
+14,Otago Region,12,West Coast Region,2009,261
+14,Otago Region,12,West Coast Region,2010,282
+14,Otago Region,12,West Coast Region,2011,303
+14,Otago Region,12,West Coast Region,2012,345
+14,Otago Region,12,West Coast Region,2013,309
+14,Otago Region,12,West Coast Region,2014,297
+14,Otago Region,12,West Coast Region,2015,294
+14,Otago Region,12,West Coast Region,2016,312
+14,Otago Region,12,West Coast Region,2017,327
+14,Otago Region,13,Canterbury Region,2007,4773
+14,Otago Region,13,Canterbury Region,2008,5784
+14,Otago Region,13,Canterbury Region,2009,5817
+14,Otago Region,13,Canterbury Region,2010,5706
+14,Otago Region,13,Canterbury Region,2011,5799
+14,Otago Region,13,Canterbury Region,2012,6471
+14,Otago Region,13,Canterbury Region,2013,6423
+14,Otago Region,13,Canterbury Region,2014,6885
+14,Otago Region,13,Canterbury Region,2015,7350
+14,Otago Region,13,Canterbury Region,2016,7080
+14,Otago Region,13,Canterbury Region,2017,6867
+14,Otago Region,15,Southland Region,2007,2226
+14,Otago Region,15,Southland Region,2008,2811
+14,Otago Region,15,Southland Region,2009,2940
+14,Otago Region,15,Southland Region,2010,2937
+14,Otago Region,15,Southland Region,2011,2823
+14,Otago Region,15,Southland Region,2012,2853
+14,Otago Region,15,Southland Region,2013,2754
+14,Otago Region,15,Southland Region,2014,2925
+14,Otago Region,15,Southland Region,2015,3156
+14,Otago Region,15,Southland Region,2016,2904
+14,Otago Region,15,Southland Region,2017,2856
+14,Otago Region,16,Tasman Region,2007,297
+14,Otago Region,16,Tasman Region,2008,366
+14,Otago Region,16,Tasman Region,2009,381
+14,Otago Region,16,Tasman Region,2010,384
+14,Otago Region,16,Tasman Region,2011,342
+14,Otago Region,16,Tasman Region,2012,402
+14,Otago Region,16,Tasman Region,2013,387
+14,Otago Region,16,Tasman Region,2014,492
+14,Otago Region,16,Tasman Region,2015,495
+14,Otago Region,16,Tasman Region,2016,459
+14,Otago Region,16,Tasman Region,2017,513
+14,Otago Region,17,Nelson Region,2007,474
+14,Otago Region,17,Nelson Region,2008,522
+14,Otago Region,17,Nelson Region,2009,525
+14,Otago Region,17,Nelson Region,2010,471
+14,Otago Region,17,Nelson Region,2011,441
+14,Otago Region,17,Nelson Region,2012,444
+14,Otago Region,17,Nelson Region,2013,432
+14,Otago Region,17,Nelson Region,2014,456
+14,Otago Region,17,Nelson Region,2015,480
+14,Otago Region,17,Nelson Region,2016,441
+14,Otago Region,17,Nelson Region,2017,480
+14,Otago Region,18,Marlborough Region,2007,303
+14,Otago Region,18,Marlborough Region,2008,411
+14,Otago Region,18,Marlborough Region,2009,408
+14,Otago Region,18,Marlborough Region,2010,351
+14,Otago Region,18,Marlborough Region,2011,372
+14,Otago Region,18,Marlborough Region,2012,369
+14,Otago Region,18,Marlborough Region,2013,321
+14,Otago Region,18,Marlborough Region,2014,372
+14,Otago Region,18,Marlborough Region,2015,402
+14,Otago Region,18,Marlborough Region,2016,426
+14,Otago Region,18,Marlborough Region,2017,399
+15,Southland Region,01,Northland Region,2007,126
+15,Southland Region,01,Northland Region,2008,147
+15,Southland Region,01,Northland Region,2009,156
+15,Southland Region,01,Northland Region,2010,123
+15,Southland Region,01,Northland Region,2011,144
+15,Southland Region,01,Northland Region,2012,147
+15,Southland Region,01,Northland Region,2013,153
+15,Southland Region,01,Northland Region,2014,153
+15,Southland Region,01,Northland Region,2015,162
+15,Southland Region,01,Northland Region,2016,153
+15,Southland Region,01,Northland Region,2017,177
+15,Southland Region,02,Auckland Region,2007,444
+15,Southland Region,02,Auckland Region,2008,528
+15,Southland Region,02,Auckland Region,2009,618
+15,Southland Region,02,Auckland Region,2010,687
+15,Southland Region,02,Auckland Region,2011,660
+15,Southland Region,02,Auckland Region,2012,702
+15,Southland Region,02,Auckland Region,2013,648
+15,Southland Region,02,Auckland Region,2014,717
+15,Southland Region,02,Auckland Region,2015,795
+15,Southland Region,02,Auckland Region,2016,801
+15,Southland Region,02,Auckland Region,2017,705
+15,Southland Region,03,Waikato Region,2007,336
+15,Southland Region,03,Waikato Region,2008,393
+15,Southland Region,03,Waikato Region,2009,426
+15,Southland Region,03,Waikato Region,2010,537
+15,Southland Region,03,Waikato Region,2011,435
+15,Southland Region,03,Waikato Region,2012,471
+15,Southland Region,03,Waikato Region,2013,438
+15,Southland Region,03,Waikato Region,2014,438
+15,Southland Region,03,Waikato Region,2015,498
+15,Southland Region,03,Waikato Region,2016,525
+15,Southland Region,03,Waikato Region,2017,489
+15,Southland Region,04,Bay of Plenty Region,2007,204
+15,Southland Region,04,Bay of Plenty Region,2008,273
+15,Southland Region,04,Bay of Plenty Region,2009,273
+15,Southland Region,04,Bay of Plenty Region,2010,300
+15,Southland Region,04,Bay of Plenty Region,2011,327
+15,Southland Region,04,Bay of Plenty Region,2012,300
+15,Southland Region,04,Bay of Plenty Region,2013,267
+15,Southland Region,04,Bay of Plenty Region,2014,294
+15,Southland Region,04,Bay of Plenty Region,2015,288
+15,Southland Region,04,Bay of Plenty Region,2016,336
+15,Southland Region,04,Bay of Plenty Region,2017,285
+15,Southland Region,05,Gisborne Region,2007,42
+15,Southland Region,05,Gisborne Region,2008,45
+15,Southland Region,05,Gisborne Region,2009,54
+15,Southland Region,05,Gisborne Region,2010,54
+15,Southland Region,05,Gisborne Region,2011,81
+15,Southland Region,05,Gisborne Region,2012,63
+15,Southland Region,05,Gisborne Region,2013,54
+15,Southland Region,05,Gisborne Region,2014,63
+15,Southland Region,05,Gisborne Region,2015,51
+15,Southland Region,05,Gisborne Region,2016,78
+15,Southland Region,05,Gisborne Region,2017,75
+15,Southland Region,06,Hawke's Bay Region,2007,135
+15,Southland Region,06,Hawke's Bay Region,2008,162
+15,Southland Region,06,Hawke's Bay Region,2009,195
+15,Southland Region,06,Hawke's Bay Region,2010,210
+15,Southland Region,06,Hawke's Bay Region,2011,147
+15,Southland Region,06,Hawke's Bay Region,2012,159
+15,Southland Region,06,Hawke's Bay Region,2013,141
+15,Southland Region,06,Hawke's Bay Region,2014,189
+15,Southland Region,06,Hawke's Bay Region,2015,213
+15,Southland Region,06,Hawke's Bay Region,2016,192
+15,Southland Region,06,Hawke's Bay Region,2017,183
+15,Southland Region,07,Taranaki Region,2007,99
+15,Southland Region,07,Taranaki Region,2008,123
+15,Southland Region,07,Taranaki Region,2009,141
+15,Southland Region,07,Taranaki Region,2010,147
+15,Southland Region,07,Taranaki Region,2011,108
+15,Southland Region,07,Taranaki Region,2012,117
+15,Southland Region,07,Taranaki Region,2013,105
+15,Southland Region,07,Taranaki Region,2014,114
+15,Southland Region,07,Taranaki Region,2015,123
+15,Southland Region,07,Taranaki Region,2016,96
+15,Southland Region,07,Taranaki Region,2017,96
+15,Southland Region,08,Manawatu-Wanganui Region,2007,171
+15,Southland Region,08,Manawatu-Wanganui Region,2008,228
+15,Southland Region,08,Manawatu-Wanganui Region,2009,234
+15,Southland Region,08,Manawatu-Wanganui Region,2010,249
+15,Southland Region,08,Manawatu-Wanganui Region,2011,243
+15,Southland Region,08,Manawatu-Wanganui Region,2012,249
+15,Southland Region,08,Manawatu-Wanganui Region,2013,225
+15,Southland Region,08,Manawatu-Wanganui Region,2014,246
+15,Southland Region,08,Manawatu-Wanganui Region,2015,297
+15,Southland Region,08,Manawatu-Wanganui Region,2016,309
+15,Southland Region,08,Manawatu-Wanganui Region,2017,276
+15,Southland Region,09,Wellington Region,2007,318
+15,Southland Region,09,Wellington Region,2008,342
+15,Southland Region,09,Wellington Region,2009,363
+15,Southland Region,09,Wellington Region,2010,378
+15,Southland Region,09,Wellington Region,2011,384
+15,Southland Region,09,Wellington Region,2012,393
+15,Southland Region,09,Wellington Region,2013,381
+15,Southland Region,09,Wellington Region,2014,441
+15,Southland Region,09,Wellington Region,2015,462
+15,Southland Region,09,Wellington Region,2016,513
+15,Southland Region,09,Wellington Region,2017,507
+15,Southland Region,12,West Coast Region,2007,120
+15,Southland Region,12,West Coast Region,2008,135
+15,Southland Region,12,West Coast Region,2009,111
+15,Southland Region,12,West Coast Region,2010,132
+15,Southland Region,12,West Coast Region,2011,144
+15,Southland Region,12,West Coast Region,2012,159
+15,Southland Region,12,West Coast Region,2013,126
+15,Southland Region,12,West Coast Region,2014,162
+15,Southland Region,12,West Coast Region,2015,147
+15,Southland Region,12,West Coast Region,2016,141
+15,Southland Region,12,West Coast Region,2017,111
+15,Southland Region,13,Canterbury Region,2007,1662
+15,Southland Region,13,Canterbury Region,2008,2040
+15,Southland Region,13,Canterbury Region,2009,2097
+15,Southland Region,13,Canterbury Region,2010,2190
+15,Southland Region,13,Canterbury Region,2011,2205
+15,Southland Region,13,Canterbury Region,2012,2241
+15,Southland Region,13,Canterbury Region,2013,2151
+15,Southland Region,13,Canterbury Region,2014,2283
+15,Southland Region,13,Canterbury Region,2015,2364
+15,Southland Region,13,Canterbury Region,2016,2352
+15,Southland Region,13,Canterbury Region,2017,2244
+15,Southland Region,14,Otago Region,2007,2463
+15,Southland Region,14,Otago Region,2008,2922
+15,Southland Region,14,Otago Region,2009,2961
+15,Southland Region,14,Otago Region,2010,3054
+15,Southland Region,14,Otago Region,2011,3042
+15,Southland Region,14,Otago Region,2012,2991
+15,Southland Region,14,Otago Region,2013,3060
+15,Southland Region,14,Otago Region,2014,3462
+15,Southland Region,14,Otago Region,2015,3378
+15,Southland Region,14,Otago Region,2016,3270
+15,Southland Region,14,Otago Region,2017,3246
+15,Southland Region,16,Tasman Region,2007,108
+15,Southland Region,16,Tasman Region,2008,129
+15,Southland Region,16,Tasman Region,2009,123
+15,Southland Region,16,Tasman Region,2010,159
+15,Southland Region,16,Tasman Region,2011,120
+15,Southland Region,16,Tasman Region,2012,138
+15,Southland Region,16,Tasman Region,2013,135
+15,Southland Region,16,Tasman Region,2014,174
+15,Southland Region,16,Tasman Region,2015,165
+15,Southland Region,16,Tasman Region,2016,138
+15,Southland Region,16,Tasman Region,2017,129
+15,Southland Region,17,Nelson Region,2007,129
+15,Southland Region,17,Nelson Region,2008,165
+15,Southland Region,17,Nelson Region,2009,147
+15,Southland Region,17,Nelson Region,2010,135
+15,Southland Region,17,Nelson Region,2011,126
+15,Southland Region,17,Nelson Region,2012,135
+15,Southland Region,17,Nelson Region,2013,156
+15,Southland Region,17,Nelson Region,2014,129
+15,Southland Region,17,Nelson Region,2015,168
+15,Southland Region,17,Nelson Region,2016,162
+15,Southland Region,17,Nelson Region,2017,153
+15,Southland Region,18,Marlborough Region,2007,144
+15,Southland Region,18,Marlborough Region,2008,183
+15,Southland Region,18,Marlborough Region,2009,156
+15,Southland Region,18,Marlborough Region,2010,183
+15,Southland Region,18,Marlborough Region,2011,180
+15,Southland Region,18,Marlborough Region,2012,186
+15,Southland Region,18,Marlborough Region,2013,168
+15,Southland Region,18,Marlborough Region,2014,138
+15,Southland Region,18,Marlborough Region,2015,183
+15,Southland Region,18,Marlborough Region,2016,129
+15,Southland Region,18,Marlborough Region,2017,177
+16,Tasman Region,01,Northland Region,2007,48
+16,Tasman Region,01,Northland Region,2008,69
+16,Tasman Region,01,Northland Region,2009,42
+16,Tasman Region,01,Northland Region,2010,48
+16,Tasman Region,01,Northland Region,2011,81
+16,Tasman Region,01,Northland Region,2012,63
+16,Tasman Region,01,Northland Region,2013,90
+16,Tasman Region,01,Northland Region,2014,99
+16,Tasman Region,01,Northland Region,2015,93
+16,Tasman Region,01,Northland Region,2016,108
+16,Tasman Region,01,Northland Region,2017,108
+16,Tasman Region,02,Auckland Region,2007,228
+16,Tasman Region,02,Auckland Region,2008,249
+16,Tasman Region,02,Auckland Region,2009,369
+16,Tasman Region,02,Auckland Region,2010,345
+16,Tasman Region,02,Auckland Region,2011,372
+16,Tasman Region,02,Auckland Region,2012,381
+16,Tasman Region,02,Auckland Region,2013,414
+16,Tasman Region,02,Auckland Region,2014,474
+16,Tasman Region,02,Auckland Region,2015,528
+16,Tasman Region,02,Auckland Region,2016,546
+16,Tasman Region,02,Auckland Region,2017,552
+16,Tasman Region,03,Waikato Region,2007,102
+16,Tasman Region,03,Waikato Region,2008,156
+16,Tasman Region,03,Waikato Region,2009,156
+16,Tasman Region,03,Waikato Region,2010,147
+16,Tasman Region,03,Waikato Region,2011,156
+16,Tasman Region,03,Waikato Region,2012,204
+16,Tasman Region,03,Waikato Region,2013,189
+16,Tasman Region,03,Waikato Region,2014,210
+16,Tasman Region,03,Waikato Region,2015,219
+16,Tasman Region,03,Waikato Region,2016,195
+16,Tasman Region,03,Waikato Region,2017,219
+16,Tasman Region,04,Bay of Plenty Region,2007,84
+16,Tasman Region,04,Bay of Plenty Region,2008,126
+16,Tasman Region,04,Bay of Plenty Region,2009,123
+16,Tasman Region,04,Bay of Plenty Region,2010,108
+16,Tasman Region,04,Bay of Plenty Region,2011,135
+16,Tasman Region,04,Bay of Plenty Region,2012,174
+16,Tasman Region,04,Bay of Plenty Region,2013,147
+16,Tasman Region,04,Bay of Plenty Region,2014,204
+16,Tasman Region,04,Bay of Plenty Region,2015,228
+16,Tasman Region,04,Bay of Plenty Region,2016,192
+16,Tasman Region,04,Bay of Plenty Region,2017,168
+16,Tasman Region,05,Gisborne Region,2007,12
+16,Tasman Region,05,Gisborne Region,2008,6
+16,Tasman Region,05,Gisborne Region,2009,15
+16,Tasman Region,05,Gisborne Region,2010,24
+16,Tasman Region,05,Gisborne Region,2011,21
+16,Tasman Region,05,Gisborne Region,2012,21
+16,Tasman Region,05,Gisborne Region,2013,24
+16,Tasman Region,05,Gisborne Region,2014,12
+16,Tasman Region,05,Gisborne Region,2015,30
+16,Tasman Region,05,Gisborne Region,2016,18
+16,Tasman Region,05,Gisborne Region,2017,24
+16,Tasman Region,06,Hawke's Bay Region,2007,60
+16,Tasman Region,06,Hawke's Bay Region,2008,69
+16,Tasman Region,06,Hawke's Bay Region,2009,72
+16,Tasman Region,06,Hawke's Bay Region,2010,54
+16,Tasman Region,06,Hawke's Bay Region,2011,81
+16,Tasman Region,06,Hawke's Bay Region,2012,81
+16,Tasman Region,06,Hawke's Bay Region,2013,75
+16,Tasman Region,06,Hawke's Bay Region,2014,84
+16,Tasman Region,06,Hawke's Bay Region,2015,102
+16,Tasman Region,06,Hawke's Bay Region,2016,78
+16,Tasman Region,06,Hawke's Bay Region,2017,117
+16,Tasman Region,07,Taranaki Region,2007,51
+16,Tasman Region,07,Taranaki Region,2008,51
+16,Tasman Region,07,Taranaki Region,2009,57
+16,Tasman Region,07,Taranaki Region,2010,87
+16,Tasman Region,07,Taranaki Region,2011,51
+16,Tasman Region,07,Taranaki Region,2012,66
+16,Tasman Region,07,Taranaki Region,2013,57
+16,Tasman Region,07,Taranaki Region,2014,75
+16,Tasman Region,07,Taranaki Region,2015,69
+16,Tasman Region,07,Taranaki Region,2016,42
+16,Tasman Region,07,Taranaki Region,2017,69
+16,Tasman Region,08,Manawatu-Wanganui Region,2007,87
+16,Tasman Region,08,Manawatu-Wanganui Region,2008,96
+16,Tasman Region,08,Manawatu-Wanganui Region,2009,141
+16,Tasman Region,08,Manawatu-Wanganui Region,2010,138
+16,Tasman Region,08,Manawatu-Wanganui Region,2011,123
+16,Tasman Region,08,Manawatu-Wanganui Region,2012,129
+16,Tasman Region,08,Manawatu-Wanganui Region,2013,138
+16,Tasman Region,08,Manawatu-Wanganui Region,2014,159
+16,Tasman Region,08,Manawatu-Wanganui Region,2015,159
+16,Tasman Region,08,Manawatu-Wanganui Region,2016,153
+16,Tasman Region,08,Manawatu-Wanganui Region,2017,174
+16,Tasman Region,09,Wellington Region,2007,378
+16,Tasman Region,09,Wellington Region,2008,435
+16,Tasman Region,09,Wellington Region,2009,471
+16,Tasman Region,09,Wellington Region,2010,507
+16,Tasman Region,09,Wellington Region,2011,495
+16,Tasman Region,09,Wellington Region,2012,609
+16,Tasman Region,09,Wellington Region,2013,648
+16,Tasman Region,09,Wellington Region,2014,684
+16,Tasman Region,09,Wellington Region,2015,648
+16,Tasman Region,09,Wellington Region,2016,741
+16,Tasman Region,09,Wellington Region,2017,705
+16,Tasman Region,12,West Coast Region,2007,174
+16,Tasman Region,12,West Coast Region,2008,225
+16,Tasman Region,12,West Coast Region,2009,267
+16,Tasman Region,12,West Coast Region,2010,264
+16,Tasman Region,12,West Coast Region,2011,246
+16,Tasman Region,12,West Coast Region,2012,291
+16,Tasman Region,12,West Coast Region,2013,267
+16,Tasman Region,12,West Coast Region,2014,321
+16,Tasman Region,12,West Coast Region,2015,279
+16,Tasman Region,12,West Coast Region,2016,333
+16,Tasman Region,12,West Coast Region,2017,342
+16,Tasman Region,13,Canterbury Region,2007,765
+16,Tasman Region,13,Canterbury Region,2008,957
+16,Tasman Region,13,Canterbury Region,2009,981
+16,Tasman Region,13,Canterbury Region,2010,1089
+16,Tasman Region,13,Canterbury Region,2011,1158
+16,Tasman Region,13,Canterbury Region,2012,1254
+16,Tasman Region,13,Canterbury Region,2013,1146
+16,Tasman Region,13,Canterbury Region,2014,1233
+16,Tasman Region,13,Canterbury Region,2015,1434
+16,Tasman Region,13,Canterbury Region,2016,1218
+16,Tasman Region,13,Canterbury Region,2017,1263
+16,Tasman Region,14,Otago Region,2007,243
+16,Tasman Region,14,Otago Region,2008,303
+16,Tasman Region,14,Otago Region,2009,291
+16,Tasman Region,14,Otago Region,2010,330
+16,Tasman Region,14,Otago Region,2011,360
+16,Tasman Region,14,Otago Region,2012,390
+16,Tasman Region,14,Otago Region,2013,375
+16,Tasman Region,14,Otago Region,2014,480
+16,Tasman Region,14,Otago Region,2015,507
+16,Tasman Region,14,Otago Region,2016,432
+16,Tasman Region,14,Otago Region,2017,450
+16,Tasman Region,15,Southland Region,2007,75
+16,Tasman Region,15,Southland Region,2008,78
+16,Tasman Region,15,Southland Region,2009,120
+16,Tasman Region,15,Southland Region,2010,120
+16,Tasman Region,15,Southland Region,2011,117
+16,Tasman Region,15,Southland Region,2012,114
+16,Tasman Region,15,Southland Region,2013,123
+16,Tasman Region,15,Southland Region,2014,117
+16,Tasman Region,15,Southland Region,2015,123
+16,Tasman Region,15,Southland Region,2016,171
+16,Tasman Region,15,Southland Region,2017,132
+16,Tasman Region,17,Nelson Region,2007,1995
+16,Tasman Region,17,Nelson Region,2008,2670
+16,Tasman Region,17,Nelson Region,2009,2988
+16,Tasman Region,17,Nelson Region,2010,3066
+16,Tasman Region,17,Nelson Region,2011,2847
+16,Tasman Region,17,Nelson Region,2012,3069
+16,Tasman Region,17,Nelson Region,2013,2853
+16,Tasman Region,17,Nelson Region,2014,3087
+16,Tasman Region,17,Nelson Region,2015,3123
+16,Tasman Region,17,Nelson Region,2016,3063
+16,Tasman Region,17,Nelson Region,2017,2943
+16,Tasman Region,18,Marlborough Region,2007,225
+16,Tasman Region,18,Marlborough Region,2008,252
+16,Tasman Region,18,Marlborough Region,2009,270
+16,Tasman Region,18,Marlborough Region,2010,267
+16,Tasman Region,18,Marlborough Region,2011,300
+16,Tasman Region,18,Marlborough Region,2012,348
+16,Tasman Region,18,Marlborough Region,2013,345
+16,Tasman Region,18,Marlborough Region,2014,369
+16,Tasman Region,18,Marlborough Region,2015,324
+16,Tasman Region,18,Marlborough Region,2016,333
+16,Tasman Region,18,Marlborough Region,2017,330
+17,Nelson Region,01,Northland Region,2007,69
+17,Nelson Region,01,Northland Region,2008,84
+17,Nelson Region,01,Northland Region,2009,84
+17,Nelson Region,01,Northland Region,2010,84
+17,Nelson Region,01,Northland Region,2011,93
+17,Nelson Region,01,Northland Region,2012,96
+17,Nelson Region,01,Northland Region,2013,84
+17,Nelson Region,01,Northland Region,2014,120
+17,Nelson Region,01,Northland Region,2015,108
+17,Nelson Region,01,Northland Region,2016,114
+17,Nelson Region,01,Northland Region,2017,93
+17,Nelson Region,02,Auckland Region,2007,486
+17,Nelson Region,02,Auckland Region,2008,579
+17,Nelson Region,02,Auckland Region,2009,633
+17,Nelson Region,02,Auckland Region,2010,588
+17,Nelson Region,02,Auckland Region,2011,591
+17,Nelson Region,02,Auckland Region,2012,672
+17,Nelson Region,02,Auckland Region,2013,675
+17,Nelson Region,02,Auckland Region,2014,756
+17,Nelson Region,02,Auckland Region,2015,753
+17,Nelson Region,02,Auckland Region,2016,804
+17,Nelson Region,02,Auckland Region,2017,882
+17,Nelson Region,03,Waikato Region,2007,201
+17,Nelson Region,03,Waikato Region,2008,219
+17,Nelson Region,03,Waikato Region,2009,231
+17,Nelson Region,03,Waikato Region,2010,216
+17,Nelson Region,03,Waikato Region,2011,231
+17,Nelson Region,03,Waikato Region,2012,234
+17,Nelson Region,03,Waikato Region,2013,213
+17,Nelson Region,03,Waikato Region,2014,291
+17,Nelson Region,03,Waikato Region,2015,282
+17,Nelson Region,03,Waikato Region,2016,246
+17,Nelson Region,03,Waikato Region,2017,282
+17,Nelson Region,04,Bay of Plenty Region,2007,144
+17,Nelson Region,04,Bay of Plenty Region,2008,177
+17,Nelson Region,04,Bay of Plenty Region,2009,198
+17,Nelson Region,04,Bay of Plenty Region,2010,189
+17,Nelson Region,04,Bay of Plenty Region,2011,168
+17,Nelson Region,04,Bay of Plenty Region,2012,210
+17,Nelson Region,04,Bay of Plenty Region,2013,183
+17,Nelson Region,04,Bay of Plenty Region,2014,195
+17,Nelson Region,04,Bay of Plenty Region,2015,252
+17,Nelson Region,04,Bay of Plenty Region,2016,234
+17,Nelson Region,04,Bay of Plenty Region,2017,195
+17,Nelson Region,05,Gisborne Region,2007,27
+17,Nelson Region,05,Gisborne Region,2008,24
+17,Nelson Region,05,Gisborne Region,2009,21
+17,Nelson Region,05,Gisborne Region,2010,30
+17,Nelson Region,05,Gisborne Region,2011,48
+17,Nelson Region,05,Gisborne Region,2012,39
+17,Nelson Region,05,Gisborne Region,2013,24
+17,Nelson Region,05,Gisborne Region,2014,30
+17,Nelson Region,05,Gisborne Region,2015,27
+17,Nelson Region,05,Gisborne Region,2016,36
+17,Nelson Region,05,Gisborne Region,2017,36
+17,Nelson Region,06,Hawke's Bay Region,2007,99
+17,Nelson Region,06,Hawke's Bay Region,2008,87
+17,Nelson Region,06,Hawke's Bay Region,2009,108
+17,Nelson Region,06,Hawke's Bay Region,2010,87
+17,Nelson Region,06,Hawke's Bay Region,2011,93
+17,Nelson Region,06,Hawke's Bay Region,2012,99
+17,Nelson Region,06,Hawke's Bay Region,2013,72
+17,Nelson Region,06,Hawke's Bay Region,2014,105
+17,Nelson Region,06,Hawke's Bay Region,2015,99
+17,Nelson Region,06,Hawke's Bay Region,2016,114
+17,Nelson Region,06,Hawke's Bay Region,2017,93
+17,Nelson Region,07,Taranaki Region,2007,90
+17,Nelson Region,07,Taranaki Region,2008,66
+17,Nelson Region,07,Taranaki Region,2009,75
+17,Nelson Region,07,Taranaki Region,2010,69
+17,Nelson Region,07,Taranaki Region,2011,78
+17,Nelson Region,07,Taranaki Region,2012,75
+17,Nelson Region,07,Taranaki Region,2013,63
+17,Nelson Region,07,Taranaki Region,2014,87
+17,Nelson Region,07,Taranaki Region,2015,75
+17,Nelson Region,07,Taranaki Region,2016,81
+17,Nelson Region,07,Taranaki Region,2017,84
+17,Nelson Region,08,Manawatu-Wanganui Region,2007,153
+17,Nelson Region,08,Manawatu-Wanganui Region,2008,177
+17,Nelson Region,08,Manawatu-Wanganui Region,2009,237
+17,Nelson Region,08,Manawatu-Wanganui Region,2010,192
+17,Nelson Region,08,Manawatu-Wanganui Region,2011,192
+17,Nelson Region,08,Manawatu-Wanganui Region,2012,183
+17,Nelson Region,08,Manawatu-Wanganui Region,2013,186
+17,Nelson Region,08,Manawatu-Wanganui Region,2014,216
+17,Nelson Region,08,Manawatu-Wanganui Region,2015,222
+17,Nelson Region,08,Manawatu-Wanganui Region,2016,222
+17,Nelson Region,08,Manawatu-Wanganui Region,2017,267
+17,Nelson Region,09,Wellington Region,2007,690
+17,Nelson Region,09,Wellington Region,2008,819
+17,Nelson Region,09,Wellington Region,2009,846
+17,Nelson Region,09,Wellington Region,2010,789
+17,Nelson Region,09,Wellington Region,2011,780
+17,Nelson Region,09,Wellington Region,2012,888
+17,Nelson Region,09,Wellington Region,2013,816
+17,Nelson Region,09,Wellington Region,2014,963
+17,Nelson Region,09,Wellington Region,2015,1005
+17,Nelson Region,09,Wellington Region,2016,939
+17,Nelson Region,09,Wellington Region,2017,915
+17,Nelson Region,12,West Coast Region,2007,255
+17,Nelson Region,12,West Coast Region,2008,288
+17,Nelson Region,12,West Coast Region,2009,303
+17,Nelson Region,12,West Coast Region,2010,294
+17,Nelson Region,12,West Coast Region,2011,324
+17,Nelson Region,12,West Coast Region,2012,309
+17,Nelson Region,12,West Coast Region,2013,270
+17,Nelson Region,12,West Coast Region,2014,318
+17,Nelson Region,12,West Coast Region,2015,303
+17,Nelson Region,12,West Coast Region,2016,312
+17,Nelson Region,12,West Coast Region,2017,309
+17,Nelson Region,13,Canterbury Region,2007,1170
+17,Nelson Region,13,Canterbury Region,2008,1353
+17,Nelson Region,13,Canterbury Region,2009,1455
+17,Nelson Region,13,Canterbury Region,2010,1314
+17,Nelson Region,13,Canterbury Region,2011,1323
+17,Nelson Region,13,Canterbury Region,2012,1344
+17,Nelson Region,13,Canterbury Region,2013,1338
+17,Nelson Region,13,Canterbury Region,2014,1410
+17,Nelson Region,13,Canterbury Region,2015,1527
+17,Nelson Region,13,Canterbury Region,2016,1554
+17,Nelson Region,13,Canterbury Region,2017,1356
+17,Nelson Region,14,Otago Region,2007,354
+17,Nelson Region,14,Otago Region,2008,504
+17,Nelson Region,14,Otago Region,2009,492
+17,Nelson Region,14,Otago Region,2010,438
+17,Nelson Region,14,Otago Region,2011,462
+17,Nelson Region,14,Otago Region,2012,360
+17,Nelson Region,14,Otago Region,2013,405
+17,Nelson Region,14,Otago Region,2014,489
+17,Nelson Region,14,Otago Region,2015,474
+17,Nelson Region,14,Otago Region,2016,423
+17,Nelson Region,14,Otago Region,2017,435
+17,Nelson Region,15,Southland Region,2007,111
+17,Nelson Region,15,Southland Region,2008,159
+17,Nelson Region,15,Southland Region,2009,147
+17,Nelson Region,15,Southland Region,2010,132
+17,Nelson Region,15,Southland Region,2011,114
+17,Nelson Region,15,Southland Region,2012,165
+17,Nelson Region,15,Southland Region,2013,120
+17,Nelson Region,15,Southland Region,2014,126
+17,Nelson Region,15,Southland Region,2015,138
+17,Nelson Region,15,Southland Region,2016,138
+17,Nelson Region,15,Southland Region,2017,138
+17,Nelson Region,16,Tasman Region,2007,2112
+17,Nelson Region,16,Tasman Region,2008,2892
+17,Nelson Region,16,Tasman Region,2009,3105
+17,Nelson Region,16,Tasman Region,2010,3183
+17,Nelson Region,16,Tasman Region,2011,2895
+17,Nelson Region,16,Tasman Region,2012,3159
+17,Nelson Region,16,Tasman Region,2013,3108
+17,Nelson Region,16,Tasman Region,2014,3219
+17,Nelson Region,16,Tasman Region,2015,3069
+17,Nelson Region,16,Tasman Region,2016,3102
+17,Nelson Region,16,Tasman Region,2017,3066
+17,Nelson Region,18,Marlborough Region,2007,354
+17,Nelson Region,18,Marlborough Region,2008,426
+17,Nelson Region,18,Marlborough Region,2009,480
+17,Nelson Region,18,Marlborough Region,2010,444
+17,Nelson Region,18,Marlborough Region,2011,435
+17,Nelson Region,18,Marlborough Region,2012,519
+17,Nelson Region,18,Marlborough Region,2013,441
+17,Nelson Region,18,Marlborough Region,2014,495
+17,Nelson Region,18,Marlborough Region,2015,468
+17,Nelson Region,18,Marlborough Region,2016,483
+17,Nelson Region,18,Marlborough Region,2017,471
+18,Marlborough Region,01,Northland Region,2007,54
+18,Marlborough Region,01,Northland Region,2008,72
+18,Marlborough Region,01,Northland Region,2009,69
+18,Marlborough Region,01,Northland Region,2010,72
+18,Marlborough Region,01,Northland Region,2011,81
+18,Marlborough Region,01,Northland Region,2012,90
+18,Marlborough Region,01,Northland Region,2013,87
+18,Marlborough Region,01,Northland Region,2014,78
+18,Marlborough Region,01,Northland Region,2015,93
+18,Marlborough Region,01,Northland Region,2016,105
+18,Marlborough Region,01,Northland Region,2017,96
+18,Marlborough Region,02,Auckland Region,2007,330
+18,Marlborough Region,02,Auckland Region,2008,429
+18,Marlborough Region,02,Auckland Region,2009,534
+18,Marlborough Region,02,Auckland Region,2010,582
+18,Marlborough Region,02,Auckland Region,2011,570
+18,Marlborough Region,02,Auckland Region,2012,672
+18,Marlborough Region,02,Auckland Region,2013,591
+18,Marlborough Region,02,Auckland Region,2014,597
+18,Marlborough Region,02,Auckland Region,2015,651
+18,Marlborough Region,02,Auckland Region,2016,588
+18,Marlborough Region,02,Auckland Region,2017,591
+18,Marlborough Region,03,Waikato Region,2007,162
+18,Marlborough Region,03,Waikato Region,2008,219
+18,Marlborough Region,03,Waikato Region,2009,225
+18,Marlborough Region,03,Waikato Region,2010,204
+18,Marlborough Region,03,Waikato Region,2011,219
+18,Marlborough Region,03,Waikato Region,2012,240
+18,Marlborough Region,03,Waikato Region,2013,252
+18,Marlborough Region,03,Waikato Region,2014,249
+18,Marlborough Region,03,Waikato Region,2015,261
+18,Marlborough Region,03,Waikato Region,2016,258
+18,Marlborough Region,03,Waikato Region,2017,261
+18,Marlborough Region,04,Bay of Plenty Region,2007,156
+18,Marlborough Region,04,Bay of Plenty Region,2008,201
+18,Marlborough Region,04,Bay of Plenty Region,2009,177
+18,Marlborough Region,04,Bay of Plenty Region,2010,213
+18,Marlborough Region,04,Bay of Plenty Region,2011,195
+18,Marlborough Region,04,Bay of Plenty Region,2012,219
+18,Marlborough Region,04,Bay of Plenty Region,2013,168
+18,Marlborough Region,04,Bay of Plenty Region,2014,186
+18,Marlborough Region,04,Bay of Plenty Region,2015,219
+18,Marlborough Region,04,Bay of Plenty Region,2016,213
+18,Marlborough Region,04,Bay of Plenty Region,2017,180
+18,Marlborough Region,05,Gisborne Region,2007,42
+18,Marlborough Region,05,Gisborne Region,2008,48
+18,Marlborough Region,05,Gisborne Region,2009,33
+18,Marlborough Region,05,Gisborne Region,2010,30
+18,Marlborough Region,05,Gisborne Region,2011,36
+18,Marlborough Region,05,Gisborne Region,2012,48
+18,Marlborough Region,05,Gisborne Region,2013,57
+18,Marlborough Region,05,Gisborne Region,2014,54
+18,Marlborough Region,05,Gisborne Region,2015,42
+18,Marlborough Region,05,Gisborne Region,2016,60
+18,Marlborough Region,05,Gisborne Region,2017,45
+18,Marlborough Region,06,Hawke's Bay Region,2007,153
+18,Marlborough Region,06,Hawke's Bay Region,2008,195
+18,Marlborough Region,06,Hawke's Bay Region,2009,198
+18,Marlborough Region,06,Hawke's Bay Region,2010,210
+18,Marlborough Region,06,Hawke's Bay Region,2011,147
+18,Marlborough Region,06,Hawke's Bay Region,2012,153
+18,Marlborough Region,06,Hawke's Bay Region,2013,138
+18,Marlborough Region,06,Hawke's Bay Region,2014,180
+18,Marlborough Region,06,Hawke's Bay Region,2015,150
+18,Marlborough Region,06,Hawke's Bay Region,2016,192
+18,Marlborough Region,06,Hawke's Bay Region,2017,174
+18,Marlborough Region,07,Taranaki Region,2007,78
+18,Marlborough Region,07,Taranaki Region,2008,96
+18,Marlborough Region,07,Taranaki Region,2009,108
+18,Marlborough Region,07,Taranaki Region,2010,72
+18,Marlborough Region,07,Taranaki Region,2011,63
+18,Marlborough Region,07,Taranaki Region,2012,66
+18,Marlborough Region,07,Taranaki Region,2013,87
+18,Marlborough Region,07,Taranaki Region,2014,105
+18,Marlborough Region,07,Taranaki Region,2015,72
+18,Marlborough Region,07,Taranaki Region,2016,75
+18,Marlborough Region,07,Taranaki Region,2017,90
+18,Marlborough Region,08,Manawatu-Wanganui Region,2007,222
+18,Marlborough Region,08,Manawatu-Wanganui Region,2008,231
+18,Marlborough Region,08,Manawatu-Wanganui Region,2009,249
+18,Marlborough Region,08,Manawatu-Wanganui Region,2010,264
+18,Marlborough Region,08,Manawatu-Wanganui Region,2011,216
+18,Marlborough Region,08,Manawatu-Wanganui Region,2012,240
+18,Marlborough Region,08,Manawatu-Wanganui Region,2013,234
+18,Marlborough Region,08,Manawatu-Wanganui Region,2014,333
+18,Marlborough Region,08,Manawatu-Wanganui Region,2015,309
+18,Marlborough Region,08,Manawatu-Wanganui Region,2016,291
+18,Marlborough Region,08,Manawatu-Wanganui Region,2017,294
+18,Marlborough Region,09,Wellington Region,2007,486
+18,Marlborough Region,09,Wellington Region,2008,594
+18,Marlborough Region,09,Wellington Region,2009,615
+18,Marlborough Region,09,Wellington Region,2010,558
+18,Marlborough Region,09,Wellington Region,2011,696
+18,Marlborough Region,09,Wellington Region,2012,684
+18,Marlborough Region,09,Wellington Region,2013,723
+18,Marlborough Region,09,Wellington Region,2014,738
+18,Marlborough Region,09,Wellington Region,2015,702
+18,Marlborough Region,09,Wellington Region,2016,711
+18,Marlborough Region,09,Wellington Region,2017,678
+18,Marlborough Region,12,West Coast Region,2007,153
+18,Marlborough Region,12,West Coast Region,2008,162
+18,Marlborough Region,12,West Coast Region,2009,180
+18,Marlborough Region,12,West Coast Region,2010,186
+18,Marlborough Region,12,West Coast Region,2011,159
+18,Marlborough Region,12,West Coast Region,2012,150
+18,Marlborough Region,12,West Coast Region,2013,132
+18,Marlborough Region,12,West Coast Region,2014,171
+18,Marlborough Region,12,West Coast Region,2015,171
+18,Marlborough Region,12,West Coast Region,2016,180
+18,Marlborough Region,12,West Coast Region,2017,159
+18,Marlborough Region,13,Canterbury Region,2007,1359
+18,Marlborough Region,13,Canterbury Region,2008,1626
+18,Marlborough Region,13,Canterbury Region,2009,1575
+18,Marlborough Region,13,Canterbury Region,2010,1611
+18,Marlborough Region,13,Canterbury Region,2011,1590
+18,Marlborough Region,13,Canterbury Region,2012,1800
+18,Marlborough Region,13,Canterbury Region,2013,1683
+18,Marlborough Region,13,Canterbury Region,2014,1596
+18,Marlborough Region,13,Canterbury Region,2015,1677
+18,Marlborough Region,13,Canterbury Region,2016,1491
+18,Marlborough Region,13,Canterbury Region,2017,1539
+18,Marlborough Region,14,Otago Region,2007,255
+18,Marlborough Region,14,Otago Region,2008,366
+18,Marlborough Region,14,Otago Region,2009,396
+18,Marlborough Region,14,Otago Region,2010,393
+18,Marlborough Region,14,Otago Region,2011,393
+18,Marlborough Region,14,Otago Region,2012,369
+18,Marlborough Region,14,Otago Region,2013,375
+18,Marlborough Region,14,Otago Region,2014,402
+18,Marlborough Region,14,Otago Region,2015,396
+18,Marlborough Region,14,Otago Region,2016,417
+18,Marlborough Region,14,Otago Region,2017,399
+18,Marlborough Region,15,Southland Region,2007,138
+18,Marlborough Region,15,Southland Region,2008,174
+18,Marlborough Region,15,Southland Region,2009,159
+18,Marlborough Region,15,Southland Region,2010,147
+18,Marlborough Region,15,Southland Region,2011,129
+18,Marlborough Region,15,Southland Region,2012,159
+18,Marlborough Region,15,Southland Region,2013,120
+18,Marlborough Region,15,Southland Region,2014,132
+18,Marlborough Region,15,Southland Region,2015,171
+18,Marlborough Region,15,Southland Region,2016,156
+18,Marlborough Region,15,Southland Region,2017,153
+18,Marlborough Region,16,Tasman Region,2007,225
+18,Marlborough Region,16,Tasman Region,2008,258
+18,Marlborough Region,16,Tasman Region,2009,333
+18,Marlborough Region,16,Tasman Region,2010,327
+18,Marlborough Region,16,Tasman Region,2011,288
+18,Marlborough Region,16,Tasman Region,2012,336
+18,Marlborough Region,16,Tasman Region,2013,330
+18,Marlborough Region,16,Tasman Region,2014,405
+18,Marlborough Region,16,Tasman Region,2015,354
+18,Marlborough Region,16,Tasman Region,2016,378
+18,Marlborough Region,16,Tasman Region,2017,360
+18,Marlborough Region,17,Nelson Region,2007,384
+18,Marlborough Region,17,Nelson Region,2008,528
+18,Marlborough Region,17,Nelson Region,2009,492
+18,Marlborough Region,17,Nelson Region,2010,498
+18,Marlborough Region,17,Nelson Region,2011,501
+18,Marlborough Region,17,Nelson Region,2012,564
+18,Marlborough Region,17,Nelson Region,2013,495
+18,Marlborough Region,17,Nelson Region,2014,531
+18,Marlborough Region,17,Nelson Region,2015,462
+18,Marlborough Region,17,Nelson Region,2016,507
+18,Marlborough Region,17,Nelson Region,2017,453
