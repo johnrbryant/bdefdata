@@ -141,7 +141,8 @@ data/netherlands_health.rda : data-raw/netherlands_health/netherlands_health.R \
 	Rscript $<
 
 data/netherlands_exposure.rda : data-raw/netherlands_exposure/netherlands_exposure.R \
-                                data-raw/netherlands_exposure/POP_PROJ_04062016225548685.csv
+                                data-raw/netherlands_exposure/demo_pjan_1_Data.csv \
+                                data-raw/netherlands_exposure/proj_15npms_1_Data.csv
 	Rscript $<
 
 
