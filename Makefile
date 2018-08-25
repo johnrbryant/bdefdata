@@ -12,12 +12,12 @@ all: data/cambodia_births_census.rda \
      data/netherlands_cpi.rda \
      data/netherlands_health.rda \
      data/netherlands_exposure.rda \
-     data/new_zealand_births_reg.rda \
+     data/new_zealand_address_admin.rda \
+     data/new_zealand_address_census.rda \
      data/new_zealand_arrivals.rda \
+     data/new_zealand_births_reg.rda \
      data/new_zealand_deaths_reg.rda \
      data/new_zealand_departures.rda \
-     data/new_zealand_internal_admin.rda \
-     data/new_zealand_internal_census.rda \
      data/new_zealand_popn_admin.rda \
      data/new_zealand_popn_census.rda \
      data/portugal_deaths.rda \
@@ -148,6 +148,14 @@ data/netherlands_exposure.rda : data-raw/netherlands_exposure/netherlands_exposu
 
 ## New Zealand Population, Births, Deaths, and Migration
 
+data/new_zealand_address_admin.rda : data-raw/new_zealand_address_admin/new_zealand_address_admin.R \
+                                     data-raw/new_zealand_address_admin/rc_movements_07_17_v2.csv
+	Rscript $<
+
+data/new_zealand_address_census.rda : data-raw/new_zealand_address_census/new_zealand_address_census.R \
+                                      data-raw/new_zealand_address_census/migr_transitions_rc13_9613_rr3.csv
+	Rscript $<
+
 data/new_zealand_arrivals.rda : data-raw/new_zealand_arrivals/new_zealand_arrivals.R \
                                 data-raw/new_zealand_arrivals/rc13_pltmig_9716.zip
 	Rscript $<
@@ -162,14 +170,6 @@ data/new_zealand_deaths_reg.rda : data-raw/new_zealand_deaths_reg/new_zealand_de
 
 data/new_zealand_departures.rda : data-raw/new_zealand_departures/new_zealand_departures.R \
                                   data-raw/new_zealand_departures/rc13_pltmig_9716.zip
-	Rscript $<
-
-data/new_zealand_internal_admin.rda : data-raw/new_zealand_internal_admin/new_zealand_internal_admin.R \
-                                      data-raw/new_zealand_internal_admin/rc_movements_07_17_v2.csv
-	Rscript $<
-
-data/new_zealand_internal_census.rda : data-raw/new_zealand_internal_census/new_zealand_internal_census.R \
-                                       data-raw/new_zealand_internal_census/migr_transitions_rc13_9613_rr3.csv
 	Rscript $<
 
 data/new_zealand_popn_admin.rda : data-raw/new_zealand_popn_admin/new_zealand_popn_admin.R \

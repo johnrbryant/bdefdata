@@ -21,7 +21,7 @@ levels_region <- c("West Coast",
                    "Canterbury",
                    "Auckland")
 
-new_zealand_internal_admin <- read_csv("data-raw/new_zealand_internal_admin/rc_movements_07_17_v2.csv") %>%
+new_zealand_address_admin <- read_csv("data-raw/new_zealand_address_admin/rc_movements_07_17_v2.csv") %>%
     mutate(region_orig = sub(" Region", "", prev_rcdesc),
            region_dest = sub(" Region", "", new_rcdesc),
            region_orig = factor(region_orig, levels = levels_region),
@@ -31,5 +31,5 @@ new_zealand_internal_admin <- read_csv("data-raw/new_zealand_internal_admin/rc_m
     xtabs(count ~ region_orig + region_dest + time, data = .) %>%
     array(dim = dim(.), dimnames = dimnames(.))
 
-save(new_zealand_internal_admin,
-     file = "data/new_zealand_internal_admin.rda")
+save(new_zealand_address_admin,
+     file = "data/new_zealand_address_admin.rda")

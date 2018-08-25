@@ -14,4 +14,4 @@
 #'
 #' @source Custom tabulation from Stats NZ.
 #'
-"new_zealand_internal_census"
+"new_zealand_address_census"

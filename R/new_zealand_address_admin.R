@@ -17,4 +17,4 @@
 #'
 #' @source Custom tabulation from Stats NZ.
 #'
-"new_zealand_internal_admin"
+"new_zealand_address_admin"
