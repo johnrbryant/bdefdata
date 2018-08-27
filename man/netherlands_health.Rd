@@ -4,18 +4,17 @@
 \name{netherlands_health}
 \alias{netherlands_health}
 \title{Health expenditure in the Netherlands, 2003-2011}
-\format{An array with dimensions "diag", "age", and "time".}
+\format{An array with dimensions  "age", "sex", and "time".}
 \source{
-Table "Expenditure by disease, age and gender under the System
-of Health Accounts (SHA) Framework : Current health spending by age"
-from OECD database 'OECD.Stat'.  Data downloaded on 25 May 2016.
+Table "Current Health Spending by Age" in the OECD database
+'OECD.stat'. Data downloaded on 24 November 2017.
 }
 \usage{
 netherlands_health
 }
 \description{
 Total health expenditures in millions of Euros, for all providers,
-by diagnostic group, age group, and year.
+by age, sex, and year.
 }
 \details{
 Data are only available for the years 2003, 2005, 2007, and 2011.
