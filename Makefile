@@ -5,6 +5,9 @@ all: data/cambodia_births_census.rda \
      data/cambodia_births_dhs_revised.rda \
      data/cambodia_population.rda \
      data/cambodia_poverty.rda \
+     data/china_births_un.rda \
+     data/china_deaths_un.rda \
+     data/china_population_census.rda \
      data/iceland_migration.rda \
      data/iceland_population.rda \
      data/maori_deaths.rda \
@@ -103,6 +106,21 @@ data/cambodia_population.rda : data-raw/cambodia_population/cambodia_population.
 
 data/cambodia_poverty.rda : data-raw/cambodia_poverty/cambodia_poverty.R \
                             data-raw/cambodia_poverty/undp_poverty.csv
+	Rscript $<
+
+
+## China Births, Deaths, and Population
+
+data/china_births_un.rda : data-raw/china_births_un/china_births_un.R \
+                           data-raw/china_births_un/NumberBirthsAgeMother-20171130020714.xlsx
+	Rscript $<
+
+data/china_deaths_un.rda : data-raw/china_deaths_un/china_deaths_un.R \
+                           data-raw/china_deaths_un/NumberDeaths-20171201121407.xlsx
+	Rscript $<
+
+data/china_population_census.rda : data-raw/china_population_census/china_population_census.R \
+                                   data-raw/china_population_census/UNdata_Export_20180121_001507260.csv
 	Rscript $<
 
 
