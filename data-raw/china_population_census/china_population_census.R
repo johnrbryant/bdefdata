@@ -4,7 +4,7 @@ library(dembase)
 library(dplyr)
 library(readr)
 
-denominator <- 1000
+denominator <- 100
 age_levels <- c(0:99, "100+")
 
 china_population_census <- read_csv("data-raw/china_population_census/UNdata_Export_20180121_001507260.csv",

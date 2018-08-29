@@ -5,7 +5,7 @@ library(tidyr)
 library(readxl)
 library(dembase)
 
-denominator <- 1000
+denominator <- 100
 
 china_deaths_un <- read_xlsx("data-raw/china_deaths_un/NumberDeaths-20171201121407.xlsx",
                        sheet = 2,
