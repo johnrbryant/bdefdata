@@ -28,7 +28,7 @@ iceland_migration <- bind_rows(read_csv2("data-raw/iceland_migration/MAN01001.cs
            region_orig = factor(region_orig, levels = levels_region)) %>%
     mutate(region_dest = recode(region_dest, "capital area" = "Capital", "Norrheast" = "Northeast"),
            region_dest = factor(region_dest, levels = levels_region)) %>%
-    filter(time %in% 2006:2016) %>%
+    filter(time %in% 2006:2015) %>%
     mutate(sex = factor(sex, levels = c("Females", "Males"), labels = c("Female", "Male"))) %>%
     xtabs(count ~ age + sex + region_orig + region_dest + time, data = .) %>%
     array(., dim = dim(.), dimnames = dimnames(.))
